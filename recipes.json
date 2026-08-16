@@ -10,7 +10,7 @@
     "fat": 20,
     "carbs": 51.1,
     "fiber": 2,
-    "image": "https://hungryhealthyhappy.com/wp-content/uploads/2012/12/prawn-laksa-social.jpg",
+    "image": "https://rasamalaysia.com/wp-content/uploads/2011/07/curry-laksa.jpg",
     "source": "Hungry Healthy Happy",
     "sourceUrl": "https://hungryhealthyhappy.com/prawn-laksa/",
     "ingredients": [
@@ -87,7 +87,8 @@
     ],
     "category": "main",
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — light coconut milk recalculated to Kara Light UHT's actual figures (137 kcal/100ml, higher than the previous generic estimate).",
-    "estimated": true
+    "estimated": true,
+    "imageCredit": "Illustrative photo from Rasa Malaysia (rasamalaysia.com) — not a photo of this exact recipe (original image was no longer loading)"
   },
   {
     "id": "jp-teriyaki-salmon-bowl",
@@ -1570,20 +1571,20 @@
     "type": "regular",
     "cookTime": 5,
     "servings": 1,
-    "calories": 447,
-    "protein": 22,
-    "fat": 18,
-    "carbs": 46,
+    "calories": 478,
+    "protein": 23.6,
+    "fat": 19.7,
+    "carbs": 48.3,
     "estimated": true,
-    "note": "Calories calculated from ingredients; protein figure as published by the source.",
+    "note": "Calories calculated from ingredients; protein figure as published by the source. Milk swapped to Devondale UHT Full Cream Pure Milk (the product actually used) — recalculated using its real nutrition panel (67 kcal/100ml, 3.7g fat/5.0g carbs/3.4g protein per 100ml, Woolworths product listing Aug 2026).",
     "image": "http://static1.squarespace.com/static/62960fbcf024ae5e0856a916/629615c9a42bc6519af3ef07/631e0f4b1688641c58fe4086/1663515457950/Screen+Shot+2022-09-11+at+11.46.08+AM.png?format=1500w",
     "source": "Angie Asche / Eleat Sports Nutrition",
     "sourceUrl": "https://www.eleatnutrition.com/blog/high-protein-breakfast-smoothie",
     "ingredients": [
       {
-        "n": "2% milk",
+        "n": "Devondale UHT Full Cream Pure Milk",
         "a": "180ml",
-        "k": 90
+        "k": 121
       },
       {
         "n": "Frozen banana",
@@ -1620,20 +1621,25 @@
     "type": "regular",
     "cookTime": 5,
     "servings": 1,
-    "calories": 360,
-    "protein": 27,
-    "fat": 9,
-    "carbs": 37,
+    "calories": 488,
+    "protein": 33.5,
+    "fat": 16.1,
+    "carbs": 46.6,
     "estimated": true,
-    "note": "Source published no macro data; calories and macros fully calculated from ingredients.",
+    "note": "Source published no macro data; calories and macros fully calculated from ingredients. Milk swapped to Devondale UHT Full Cream Pure Milk (the product actually used) — recalculated using its real nutrition panel (67 kcal/100ml, 3.7g fat/5.0g carbs/3.4g protein per 100ml, Woolworths product listing Aug 2026). Milk volume reduced and topped up with water/ice (same total liquid volume) to bring calories back to 500 or under, per user request after reviewing the full-Devondale-macro figures.",
     "image": "http://static1.squarespace.com/static/62960fbcf024ae5e0856a916/629615c9a42bc6519af3ef07/62961833a42bc6519af43a25/1654003777493/FullSizeRender+302.jpg?format=1500w",
     "source": "Angie Asche / Eleat Sports Nutrition",
     "sourceUrl": "https://www.eleatnutrition.com/blog/gut-healthy-berry-smoothie",
     "ingredients": [
       {
-        "n": "Unsweetened almond milk",
-        "a": "360ml",
-        "k": 40
+        "n": "Devondale UHT Full Cream Pure Milk",
+        "a": "250ml",
+        "k": 168
+      },
+      {
+        "n": "Water & ice (to top up)",
+        "a": "110ml",
+        "k": 0
       },
       {
         "n": "Frozen banana",
@@ -1675,12 +1681,12 @@
     "type": "regular",
     "cookTime": 5,
     "servings": 1,
-    "calories": 392,
-    "protein": 35,
-    "fat": 13,
-    "carbs": 49,
+    "calories": 402,
+    "protein": 35.5,
+    "fat": 13.6,
+    "carbs": 49.7,
     "estimated": true,
-    "note": "Lightened from the published 524 kcal version: oats cut from 1/3 cup to 2 tbsp, peanut butter cut from 2 tbsp to 1 tbsp, and milk reduced.",
+    "note": "Lightened from the published 524 kcal version: oats cut from 1/3 cup to 2 tbsp, peanut butter cut from 2 tbsp to 1 tbsp, and milk reduced. Milk swapped to Devondale UHT Full Cream Pure Milk (the product actually used) — recalculated using its real nutrition panel (67 kcal/100ml, 3.7g fat/5.0g carbs/3.4g protein per 100ml, Woolworths product listing Aug 2026).",
     "image": "https://thealmondeater.com/wp-content/uploads/2014/06/Chocolate-Peanut-Butter-Protein-Smoothie-1-3.jpg",
     "source": "The Almond Eater (adapted)",
     "sourceUrl": "https://thealmondeater.com/chocolate-peanut-butter-protein-smoothie/",
@@ -1711,9 +1717,9 @@
         "k": 30
       },
       {
-        "n": "Milk",
+        "n": "Devondale UHT Full Cream Pure Milk",
         "a": "60ml",
-        "k": 30
+        "k": 40
       }
     ],
     "steps": [
@@ -1730,12 +1736,12 @@
     "type": "regular",
     "cookTime": 5,
     "servings": 1,
-    "calories": 430,
-    "protein": 40,
-    "fat": 15,
-    "carbs": 38,
+    "calories": 490,
+    "protein": 43,
+    "fat": 18.3,
+    "carbs": 42.4,
     "estimated": true,
-    "note": "Boosted from the published 268 kcal / 17g protein version, which fell short of both targets: protein powder increased to 1.5 scoops and 1 tsp almond butter added.",
+    "note": "Boosted from the published 268 kcal / 17g protein version, which fell short of both targets: protein powder increased to 1.5 scoops and 1 tsp almond butter added. Milk swapped to Devondale UHT Full Cream Pure Milk (the product actually used) — recalculated using its real nutrition panel (67 kcal/100ml, 3.7g fat/5.0g carbs/3.4g protein per 100ml, Woolworths product listing Aug 2026). Milk volume reduced and topped up with water/ice (same total liquid volume) to bring calories back to 500 or under, per user request after reviewing the full-Devondale-macro figures.",
     "image": "https://www.eatingbirdfood.com/wp-content/uploads/2022/01/green-protein-smoothie-hero.jpg",
     "source": "Eating Bird Food (adapted)",
     "sourceUrl": "https://www.eatingbirdfood.com/green-protein-smoothie/",
@@ -1751,9 +1757,14 @@
         "k": 180
       },
       {
-        "n": "Unsweetened vanilla almond milk",
-        "a": "240ml",
-        "k": 40
+        "n": "Devondale UHT Full Cream Pure Milk",
+        "a": "150ml",
+        "k": 100
+      },
+      {
+        "n": "Water & ice (to top up)",
+        "a": "90ml",
+        "k": 0
       },
       {
         "n": "Baby spinach",
@@ -1785,12 +1796,12 @@
     "type": "regular",
     "cookTime": 5,
     "servings": 1,
-    "calories": 375,
-    "protein": 42,
-    "fat": 6,
-    "carbs": 40,
+    "calories": 456,
+    "protein": 46.1,
+    "fat": 10.5,
+    "carbs": 46,
     "estimated": true,
-    "note": "Nudged up from the published 330 kcal version by increasing protein powder from 1/2 scoop to a full scoop to meet the 20g+ protein target.",
+    "note": "Nudged up from the published 330 kcal version by increasing protein powder from 1/2 scoop to a full scoop to meet the 20g+ protein target. Milk swapped to Devondale UHT Full Cream Pure Milk (the product actually used) — recalculated using its real nutrition panel (67 kcal/100ml, 3.7g fat/5.0g carbs/3.4g protein per 100ml, Woolworths product listing Aug 2026).",
     "image": "https://amberssuperfoodsmoothies.com/wp-content/uploads/2025/09/mango-protein-smoothie-featured.jpg",
     "source": "Amber's Superfood Smoothies (adapted)",
     "sourceUrl": "https://amberssuperfoodsmoothies.com/mango-protein-smoothie/",
@@ -1801,9 +1812,9 @@
         "k": 135
       },
       {
-        "n": "Unsweetened soy milk",
+        "n": "Devondale UHT Full Cream Pure Milk",
         "a": "240ml",
-        "k": 80
+        "k": 161
       },
       {
         "n": "Vanilla plant protein powder",
