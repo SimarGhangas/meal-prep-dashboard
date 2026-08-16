@@ -1,0 +1,2529 @@
+[
+  {
+    "id": "sg-prawn-laksa",
+    "name": "Prawn Laksa",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 12,
+    "calories": 490,
+    "protein": 34.4,
+    "fat": 20,
+    "carbs": 51.1,
+    "fiber": 2,
+    "image": "https://hungryhealthyhappy.com/wp-content/uploads/2012/12/prawn-laksa-social.jpg",
+    "source": "Hungry Healthy Happy",
+    "sourceUrl": "https://hungryhealthyhappy.com/prawn-laksa/",
+    "ingredients": [
+      {
+        "n": "Red chilli",
+        "a": "1",
+        "k": 3
+      },
+      {
+        "n": "Lemongrass, bruised & chopped",
+        "a": "1 stalk",
+        "k": 5
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "30g",
+        "k": 24
+      },
+      {
+        "n": "Garlic",
+        "a": "3 cloves",
+        "k": 13
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tbsp",
+        "k": 124,
+        "alt": "Swap for 1 tsp oil + a spray of cooking oil — saves ~80 kcal"
+      },
+      {
+        "n": "Small onion",
+        "a": "1",
+        "k": 29
+      },
+      {
+        "n": "Fish sauce",
+        "a": "1 tbsp",
+        "k": 6
+      },
+      {
+        "n": "Fresh coriander",
+        "a": "2 tbsp",
+        "k": 2
+      },
+      {
+        "n": "King prawns",
+        "a": "240g",
+        "k": 238
+      },
+      {
+        "n": "Dried wholewheat noodles",
+        "a": "100g",
+        "k": 349,
+        "alt": "Swap half for shirataki/konjac noodles — saves ~150 kcal"
+      },
+      {
+        "n": "Lime, juiced",
+        "a": "1",
+        "k": 10
+      },
+      {
+        "n": "Light coconut milk",
+        "a": "200ml",
+        "k": 274
+      }
+    ],
+    "steps": [
+      "Pound chilli, lemongrass, ginger, garlic, olive oil, onion, coriander and fish sauce into a paste (pestle & mortar or food processor).",
+      "Cook noodles according to packet directions; drain.",
+      "Heat a pan, add the paste and cook for 1 minute.",
+      "Add prawns and cook for 3 minutes.",
+      "Pour in coconut milk, hot water and lime juice; simmer for 5 minutes.",
+      "Drain noodles, add to the soup, and serve."
+    ],
+    "category": "main",
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — light coconut milk recalculated to Kara Light UHT's actual figures (137 kcal/100ml, higher than the previous generic estimate).",
+    "estimated": true
+  },
+  {
+    "id": "jp-teriyaki-salmon-bowl",
+    "name": "Teriyaki Salmon Rice Bowl",
+    "cuisine": "Japanese",
+    "type": "regular",
+    "cookTime": 15,
+    "calories": 581,
+    "protein": 26,
+    "fat": 9,
+    "carbs": 89.5,
+    "fiber": 1,
+    "sugar": 10,
+    "image": "https://www.chopstickchronicles.com/wp-content/uploads/2016/02/Teriyaki-salmon-bowls-update-31.jpg",
+    "source": "Chopstick Chronicles",
+    "sourceUrl": "https://www.chopstickchronicles.com/teriyaki-salmon-rice-bowls/",
+    "ingredients": [
+      {
+        "n": "Cooked rice",
+        "a": "585g",
+        "k": 585,
+        "alt": "Swap 1 cup for cauliflower rice — saves roughly 130 kcal and adds fibre"
+      },
+      {
+        "n": "Salmon fillet",
+        "a": "200g",
+        "k": 416
+      },
+      {
+        "n": "Sake",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Teriyaki coconut amino",
+        "a": "60ml",
+        "k": 120,
+        "alt": "Use a low-sodium/reduced-sugar teriyaki sauce — saves ~20-30 kcal"
+      },
+      {
+        "n": "Cabbage or vegetables",
+        "a": "1 handful",
+        "k": 10
+      },
+      {
+        "n": "Radishes",
+        "a": "2-3",
+        "k": 4
+      },
+      {
+        "n": "Edamame",
+        "a": "40g",
+        "k": 47
+      },
+      {
+        "n": "Sesame seeds",
+        "a": "1 tsp",
+        "k": 17
+      },
+      {
+        "n": "Scallions, chopped",
+        "a": "1 tsp",
+        "k": 1
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tsp",
+        "k": 40
+      }
+    ],
+    "steps": [
+      "Sprinkle sake over the salmon fillet; set aside.",
+      "Thinly shred cabbage and radish; soak in water.",
+      "Pat salmon dry, removing excess sake and moisture.",
+      "Heat olive oil in a pan over medium heat; pan-fry salmon until cooked through.",
+      "Remove salmon and cut into pieces. Wipe the pan, then simmer the teriyaki sauce.",
+      "Return salmon to the pan and coat in the teriyaki sauce.",
+      "Divide rice between bowls; top with salmon, vegetables, edamame and garnish."
+    ],
+    "category": "main",
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — teriyaki sauce swapped for Niulife Organic Teriyaki Coconut Amino (the product actually used); sake calories use a generic cooking-sake reference (Takara's own nutrition data isn't published) — marked estimated.",
+    "estimated": true
+  },
+  {
+    "id": "tm7-teriyaki-chicken",
+    "name": "Teriyaki Chicken",
+    "cuisine": "Japanese",
+    "type": "TM7",
+    "cookTime": 21,
+    "calories": 408,
+    "protein": 26,
+    "fat": 25,
+    "carbs": 15.9,
+    "sugar": 10,
+    "sodium": 1237,
+    "image": "https://www.thermo.kitchen/wp-content/uploads/2019/02/Teriyaki-Chicken-2-LR.jpg",
+    "source": "ThermoKitchen",
+    "sourceUrl": "https://www.thermo.kitchen/20min-teriyaki-chicken-recipe-thermomix/",
+    "ingredients": [
+      {
+        "n": "Garlic",
+        "a": "7.5g",
+        "k": 11
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "5g",
+        "k": 4
+      },
+      {
+        "n": "Mirin",
+        "a": "60g",
+        "k": 141,
+        "alt": "Cut to 40g + a splash of rice vinegar — saves ~50 kcal"
+      },
+      {
+        "n": "Rice wine vinegar",
+        "a": "25g",
+        "k": 6
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "40g",
+        "k": 40,
+        "alt": "Use reduced-sodium soy sauce — same calories, less sodium"
+      },
+      {
+        "n": "Brown sugar",
+        "a": "20g",
+        "k": 76,
+        "alt": "Cut to 10g — saves ~35 kcal, sauce is still plenty sweet"
+      },
+      {
+        "n": "Chicken thigh fillets",
+        "a": "300g, sliced",
+        "k": 627,
+        "alt": "Swap for skinless chicken breast — saves roughly 130 kcal total"
+      },
+      {
+        "n": "Cornflour",
+        "a": "1 tsp",
+        "k": 12
+      },
+      {
+        "n": "Water",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Long green shallot",
+        "a": "½, sliced",
+        "k": 2
+      },
+      {
+        "n": "Sesame seeds",
+        "a": "½ tsp",
+        "k": 8
+      }
+    ],
+    "steps": [
+      "Place garlic and ginger in the TM bowl. Chop 3 sec/Speed 9. Scrape down bowl.",
+      "Add mirin, vinegar, soy sauce, brown sugar and chicken. Cook 14 min/Varoma/Reverse+Soft Spoon (MC out).",
+      "Meanwhile mix cornflour and water into a paste.",
+      "Add the cornflour paste. Cook 4 min/100°C/Reverse+Soft Spoon (MC out).",
+      "Garnish with shallot and sesame seeds."
+    ],
+    "category": "main",
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used). Sodium field (1237mg) not recalculated — original per-ingredient sodium breakdown isn't available, but coconut aminos run meaningfully lower in sodium than regular soy sauce.",
+    "estimated": true
+  },
+  {
+    "id": "med-chicken",
+    "name": "Mediterranean Chicken",
+    "cuisine": "Mediterranean",
+    "type": "regular",
+    "cookTime": 30,
+    "calories": 297,
+    "protein": 28,
+    "fat": 16,
+    "carbs": 5,
+    "fiber": 1,
+    "sugar": 1,
+    "image": "https://www.saltandlavender.com/wp-content/uploads/2023/08/mediterranean-chicken-recipe-1.jpg",
+    "source": "Salt & Lavender",
+    "sourceUrl": "https://www.saltandlavender.com/mediterranean-chicken/",
+    "ingredients": [
+      {
+        "n": "Chicken breast, cut into cutlets",
+        "a": "1 (~140g)",
+        "k": 231
+      },
+      {
+        "n": "Salt & pepper",
+        "a": "to taste",
+        "k": 0
+      },
+      {
+        "n": "Dried oregano",
+        "a": "¼ tsp",
+        "k": 1
+      },
+      {
+        "n": "Garlic powder",
+        "a": "¼ tsp",
+        "k": 1
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tbsp",
+        "k": 119,
+        "alt": "Swap for oil spray — saves ~100 kcal"
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "1-2 cloves",
+        "k": 6
+      },
+      {
+        "n": "Dry white wine",
+        "a": "60ml",
+        "k": 15,
+        "alt": "Sub low-sodium chicken broth for an alcohol-free, similar-calorie version"
+      },
+      {
+        "n": "Cherry/grape tomatoes, halved",
+        "a": "75g",
+        "k": 13
+      },
+      {
+        "n": "Kalamata olives",
+        "a": "2-3 tbsp",
+        "k": 40,
+        "alt": "Cut to 1 tbsp — saves ~25 kcal, still gets the briny flavour"
+      },
+      {
+        "n": "Capers, drained",
+        "a": "1½ tsp",
+        "k": 1
+      },
+      {
+        "n": "Baby spinach",
+        "a": "30g",
+        "k": 7
+      },
+      {
+        "n": "Feta cheese, crumbled",
+        "a": "40g",
+        "k": 100,
+        "alt": "Swap for reduced-fat feta — saves ~30 kcal"
+      }
+    ],
+    "steps": [
+      "Cut chicken breast in half lengthwise to create thin cutlets. Season with salt, pepper, oregano and garlic powder.",
+      "Heat oil in a skillet over medium-high heat. Cook chicken 5-6 minutes per side until cooked through. Transfer to a plate.",
+      "Reduce heat to medium. Add garlic, wine, tomatoes, olives and capers. Cook 3-4 minutes until tomatoes soften.",
+      "Stir in spinach and feta. Return chicken to the skillet and warm through for 1-2 minutes until spinach wilts."
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tm7-beef-curry",
+    "name": "Quick Beef Curry",
+    "cuisine": "Indian",
+    "type": "TM7",
+    "cookTime": 35,
+    "calories": 518,
+    "protein": 48,
+    "fat": 26,
+    "carbs": 21,
+    "fiber": 3,
+    "sugar": 12,
+    "satfat": 7,
+    "cholesterol": 133,
+    "sodium": 376,
+    "image": "https://www.thermo.kitchen/wp-content/uploads/2017/12/Thermomix-Beef-Curry-500x334.jpg",
+    "source": "ThermoKitchen",
+    "sourceUrl": "https://www.thermo.kitchen/quick-thermomix-beef-curry-low-calorie-meal/",
+    "timeNote": "Cook time is 30 min, 35 min total with prep — a touch over the 30-min cap if you count prep.",
+    "ingredients": [
+      {
+        "n": "Green cardamom pods",
+        "a": "1-2",
+        "k": 2
+      },
+      {
+        "n": "Cumin seeds",
+        "a": "1 tsp",
+        "k": 8
+      },
+      {
+        "n": "Coriander seeds",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Oil",
+        "a": "20g",
+        "k": 177,
+        "alt": "Cut to 10g and add a splash of water when sautéing — saves ~90 kcal"
+      },
+      {
+        "n": "Onion, quartered",
+        "a": "100g",
+        "k": 40
+      },
+      {
+        "n": "Fresh mild chilli",
+        "a": "1",
+        "k": 3
+      },
+      {
+        "n": "Garlic",
+        "a": "10g",
+        "k": 15
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "10g",
+        "k": 8
+      },
+      {
+        "n": "Ground turmeric",
+        "a": "½ tsp",
+        "k": 4
+      },
+      {
+        "n": "Beef stock",
+        "a": "100g",
+        "k": 5
+      },
+      {
+        "n": "Tomato paste",
+        "a": "40g",
+        "k": 34
+      },
+      {
+        "n": "Natural yoghurt",
+        "a": "250g",
+        "k": 149,
+        "alt": "Swap for low-fat natural yoghurt — saves ~35 kcal"
+      },
+      {
+        "n": "Diced beef",
+        "a": "300g",
+        "k": 540,
+        "alt": "Use a leaner cut (eye round or trimmed chuck) — saves roughly 60-80 kcal"
+      },
+      {
+        "n": "Garam masala",
+        "a": "½ tsp",
+        "k": 3
+      },
+      {
+        "n": "Kasoori methi (optional)",
+        "a": "1 tsp",
+        "k": 1
+      }
+    ],
+    "steps": [
+      "Add cumin seeds, coriander seeds and cardamom pods to the TM bowl. Roast 5 min/Varoma/Speed 1 (MC out).",
+      "Mill 1 min/Speed 10.",
+      "Scrape down bowl. Add onion, chilli, ginger, garlic. Chop 10 sec/Speed 5.",
+      "Scrape down bowl. Add oil and turmeric. Sauté 5 min/Varoma/Speed 2 (MC out).",
+      "Add stock, tomato paste, yoghurt and beef. Cook 25 min/Varoma/Speed 1 (Reverse Blade).",
+      "Add garam masala and kasoori methi. Cook 1 min/Varoma/Speed 1 (Reverse Blade). Serve."
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tm7-laksa-lightened",
+    "name": "Chicken & Prawn Laksa (lightened)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "TM7",
+    "cookTime": 30,
+    "calories": 624,
+    "protein": 45,
+    "fat": 22.2,
+    "carbs": 38.7,
+    "estimated": true,
+    "image": "https://becs-table.com.au/wp-content/uploads/2015/10/White-bowl-Laksa-1200.jpg",
+    "source": "Bec's Table (adapted)",
+    "sourceUrl": "https://becs-table.com.au/becs-quick-chicken-laksa-recipe/",
+    "note": "The original recipe (full-fat coconut cream + 20g peanut oil + fried tofu puffs) works out to roughly 935 kcal/serving once computed — the source doesn't publish nutrition info. This version swaps in light coconut milk, cooking spray, and fresh tofu to bring it to ~619 kcal/serving. Calories/macros here are calculated from ingredients, not source-published. Recalculated using Simar's actual pantry products (researched Aug 2026) — Kara Light UHT's real figure (137 kcal/100ml) is higher than the previous generic estimate. To keep this at/under the 625 kcal ceiling, coconut milk was reduced from 300g to 200g and stock increased from 200g to 300g to keep the soup volume the same.",
+    "ingredients": [
+      {
+        "n": "Bec's laksa powder (or shop-bought blend)",
+        "a": "15g",
+        "k": 45
+      },
+      {
+        "n": "Red curry paste",
+        "a": "1 tsp",
+        "k": 4
+      },
+      {
+        "n": "Light coconut milk",
+        "a": "200g",
+        "k": 274,
+        "alt": "Swapped from 300g full-fat coconut cream (~576 kcal) — this is the swap already applied"
+      },
+      {
+        "n": "Chicken thigh fillet, diced",
+        "a": "~200g",
+        "k": 418
+      },
+      {
+        "n": "Garlic",
+        "a": "1-2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Kaffir lime leaves (optional)",
+        "a": "2",
+        "k": 1
+      },
+      {
+        "n": "Chicken or vegetable stock",
+        "a": "300g",
+        "k": 15
+      },
+      {
+        "n": "Brown sugar",
+        "a": "1 tsp",
+        "k": 15
+      },
+      {
+        "n": "Fish sauce",
+        "a": "1 tbsp",
+        "k": 6
+      },
+      {
+        "n": "Cooking spray",
+        "a": "as needed",
+        "k": 5,
+        "alt": "Swapped from 20g peanut oil (~177 kcal) — this is the swap already applied"
+      },
+      {
+        "n": "Pre-cooked prawns",
+        "a": "4-6",
+        "k": 149
+      },
+      {
+        "n": "Asian vegetables",
+        "a": "1 handful",
+        "k": 25
+      },
+      {
+        "n": "Fresh rice noodles",
+        "a": "200g",
+        "k": 218
+      },
+      {
+        "n": "Fresh firm tofu, cubed",
+        "a": "80g",
+        "k": 61,
+        "alt": "Swapped from 80g fried tofu puffs (~217 kcal) — this is the swap already applied"
+      }
+    ],
+    "steps": [
+      "Weigh oil-spray onto the paste and laksa powder in the TM bowl. Varoma/3 min/slow speed.",
+      "Add stock, coconut milk, chicken, garlic, kaffir lime leaves, brown sugar and fish sauce; simmering basket on lid, cook 8 min/100°C/reverse slow stir.",
+      "Add prawns and vegetables; simmering basket on lid, cook 4-6 min/100°C/reverse slow until vegetables slightly wilt.",
+      "Boil water separately; pour over rice noodles in a serving dish to soften.",
+      "Drain noodles, add tofu, pour the laksa over, stir gently, cover and rest 5 minutes."
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sgmy-beef-ho-fun",
+    "name": "Beef Ho Fun Noodles",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 20,
+    "calories": 525,
+    "protein": 36,
+    "fat": 24.7,
+    "carbs": 42.4,
+    "estimated": true,
+    "image": "https://redhousespice.com/wp-content/uploads/2019/08/Beef-chow-fun-by-Red-House-Spice-a-scaled.jpg",
+    "source": "User submitted",
+    "sourceUrl": "",
+    "timeNote": "No cook time was given with this recipe — 20 min is an estimate of active stir-fry time, not counting the 15 min passive marinate.",
+    "note": "Calories/protein as you specified (518 kcal, 36g protein/serving) — fat/carbs are estimated from the ingredient list, not independently confirmed. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures, light soy sauce swapped for Everiday Organic Coconut Aminos, Shaoxing wine recalculated to Pagoda Hua Tiao Chiew. Dark soy sauce uses a generic reference (LKK Premium Dark Soy Sauce) since the '梅山' brand actually used couldn't be verified online — marked estimated.",
+    "ingredients": [
+      {
+        "n": "Lean flank steak, thinly sliced (marinade)",
+        "a": "250g",
+        "k": 480,
+        "alt": "Trim any visible fat, or swap 20% of the steak for extra Chinese broccoli to bulk the dish without adding calories"
+      },
+      {
+        "n": "Sesame oil (marinade)",
+        "a": "1 tsp",
+        "k": 41
+      },
+      {
+        "n": "Oyster sauce (marinade)",
+        "a": "1½ tsp",
+        "k": 5
+      },
+      {
+        "n": "Coconut aminos (marinade)",
+        "a": "1½ tsp",
+        "k": 8
+      },
+      {
+        "n": "White pepper (marinade)",
+        "a": "¼ tsp",
+        "k": 1
+      },
+      {
+        "n": "Cornstarch (marinade)",
+        "a": "1½ tsp",
+        "k": 15
+      },
+      {
+        "n": "Baking soda (marinade)",
+        "a": "½ tsp",
+        "k": 0
+      },
+      {
+        "n": "Sesame oil (sauce)",
+        "a": "½ tsp",
+        "k": 20
+      },
+      {
+        "n": "Oyster sauce (sauce)",
+        "a": "1¼ tbsp",
+        "k": 11
+      },
+      {
+        "n": "Coconut aminos (sauce)",
+        "a": "1½ tsp",
+        "k": 8
+      },
+      {
+        "n": "Dark soy sauce (sauce)",
+        "a": "1 tbsp",
+        "k": 25
+      },
+      {
+        "n": "Coconut sugar (sauce)",
+        "a": "1½ tsp",
+        "k": 23
+      },
+      {
+        "n": "Shaoxing wine (sauce)",
+        "a": "1½ tsp",
+        "k": 8
+      },
+      {
+        "n": "Water (sauce)",
+        "a": "1½ tbsp",
+        "k": 0
+      },
+      {
+        "n": "Neutral oil (stir fry)",
+        "a": "1½ tsp",
+        "k": 62,
+        "alt": "Cut to 1 tsp — saves ~20 kcal"
+      },
+      {
+        "n": "Ginger paste",
+        "a": "1½ tsp",
+        "k": 7
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "2-3 cloves",
+        "k": 13
+      },
+      {
+        "n": "Fresh rice noodles (or 110g dried)",
+        "a": "300g",
+        "k": 327,
+        "alt": "Use 250g noodles + extra Chinese broccoli — saves ~55 kcal"
+      },
+      {
+        "n": "Chinese broccoli, chopped (stems & leaves separated)",
+        "a": "180g",
+        "k": 40
+      },
+      {
+        "n": "Bean sprouts",
+        "a": "50g",
+        "k": 7
+      },
+      {
+        "n": "Spring onions, sliced",
+        "a": "25g",
+        "k": 5
+      },
+      {
+        "n": "Chili oil / chili flakes (optional)",
+        "a": "to taste",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Combine all marinade ingredients with the beef; marinate 15 minutes.",
+      "Mix the sauce ingredients in a bowl. Separate fresh noodles gently, or cook dried noodles per packet directions.",
+      "Heat a pan or wok over high heat. Sear beef in batches for 2-3 minutes until browned and slightly charred, leaving it untouched for about 1 minute before flipping. Remove from pan.",
+      "Add oil, then garlic and ginger paste. Stir-fry 1-2 minutes until fragrant. Add Chinese broccoli stems and cook 2 minutes, then add the leaves and cook 1-2 minutes until wilted. Remove from pan.",
+      "Add noodles to the hot pan and let sit undisturbed for about 30 seconds to lightly char. Toss gently so they don't break apart. Pour in the sauce and cook 1 minute until evenly coated.",
+      "Return beef and vegetables to the pan and toss 1-2 minutes until glossy and combined. Add bean sprouts and spring onions during the last 30 seconds.",
+      "Serve immediately, topped with chili oil and chili flakes if desired."
+    ],
+    "imageCredit": "Illustrative photo from Red House Spice (redhousespice.com) — not a photo of this exact recipe",
+    "category": "main"
+  },
+  {
+    "id": "tm7-hainanese-chicken-rice",
+    "name": "Hainanese Chicken Rice",
+    "cuisine": "Singapore/Malaysian",
+    "type": "TM7",
+    "cookTime": 30,
+    "calories": 481,
+    "protein": 38,
+    "fat": 11.8,
+    "carbs": 42.6,
+    "estimated": true,
+    "image": "https://thewoksoflife.com/wp-content/uploads/2023/07/hainan-chicken-rice-7.jpg",
+    "source": "User submitted (Thermomix)",
+    "sourceUrl": "",
+    "timeNote": "Adapted from a whole-chicken TM7 recipe — switching to boneless skinless breast cuts the steam time from ~68 min down to ~30 min active (breast cooks through much faster than a whole bird), so this now fits the 30-min cap. Marinate time is also shorter (15-30 min is enough for breast, vs 3hr+ for a whole chicken).",
+    "note": "Reworked to use boneless, skinless chicken breast instead of a whole chicken. This alone drops calories from ~710 kcal/serving (original) to ~480 kcal/serving — well under the ceiling — since it removes all the skin fat and bone weight that made the original hard to calculate accurately. Ingredient amounts are rounded to easy-to-measure quantities. Calories/macros are still estimated, not source-published. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures, light soy sauce swapped for Everiday Organic Coconut Aminos, Shaoxing Hua Tiao Chiew recalculated to Pagoda's actual figures.",
+    "ingredients": [
+      {
+        "n": "Chicken breast, boneless & skinless",
+        "a": "300g (2 breasts)",
+        "k": 360
+      },
+      {
+        "n": "Salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Sesame oil (marinade)",
+        "a": "1 tsp",
+        "k": 41
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "3",
+        "k": 13
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "10g",
+        "k": 8
+      },
+      {
+        "n": "Spring onion",
+        "a": "2 stalks",
+        "k": 3
+      },
+      {
+        "n": "Shallots",
+        "a": "10g",
+        "k": 7
+      },
+      {
+        "n": "Pandan leaves, tied in a knot",
+        "a": "1",
+        "k": 0
+      },
+      {
+        "n": "Cooking oil",
+        "a": "10g",
+        "k": 88,
+        "alt": "Cut to 5g (or a spray) — saves ~44 kcal, still enough to sauté the aromatics"
+      },
+      {
+        "n": "Chicken stock",
+        "a": "350g",
+        "k": 53,
+        "alt": "Use a low-sodium stock — same calories, less sodium"
+      },
+      {
+        "n": "Rice, rinsed",
+        "a": "100g",
+        "k": 365,
+        "alt": "Swap 30g for cauliflower rice — saves ~55 kcal and adds fibre"
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "1 tbsp",
+        "k": 15
+      },
+      {
+        "n": "Sugar",
+        "a": "¼ tsp",
+        "k": 4
+      },
+      {
+        "n": "Chinese rice wine (Shaoxing Hua Tiao, optional)",
+        "a": "¼ tsp",
+        "k": 1
+      },
+      {
+        "n": "Cucumber, sliced",
+        "a": "30g",
+        "k": 5
+      }
+    ],
+    "steps": [
+      "Marinate the chicken breasts with salt and sesame oil for 15-30 minutes (no need for the multi-hour marinate a whole chicken needs).",
+      "Place shallots, garlic, ginger, pandan leaves and cooking oil in the mixing bowl. Sauté 8 min/120°C/speed 1. Transfer to a bowl and set aside.",
+      "Place chicken stock in the mixing bowl. Insert the simmering basket, add rice and the reserved aromatic oil. Place the marinated chicken breasts in the Varoma dish and position on the lid; steam 15 min/Varoma/speed 3.",
+      "Check chicken is cooked through (internal temp 75°C+); if needed, steam a further 2-3 minutes. Let stand 5 minutes.",
+      "Meanwhile mix a little reserved stock with the soy sauce, sugar and rice wine in a bowl.",
+      "Slice the chicken, drizzle with the sauce, and serve with the rice and sliced cucumber."
+    ],
+    "imageCredit": "Illustrative photo from The Woks of Life (thewoksoflife.com) — not a photo of this exact recipe",
+    "category": "main"
+  },
+  {
+    "id": "cn-garlic-bok-choy",
+    "name": "Garlic Bok Choy",
+    "cuisine": "Chinese",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 61,
+    "protein": 1,
+    "fat": 5,
+    "carbs": 3,
+    "estimated": true,
+    "note": "Oil reduced from the standard 1 tbsp to 2 tsp to fit the 50-75 kcal target; calories recalculated from ingredients.",
+    "image": "https://rasamalaysia.com/wp-content/uploads/2024/08/bok-choy.jpg",
+    "source": "Rasa Malaysia (lightened)",
+    "sourceUrl": "https://rasamalaysia.com/garlic-bok-choy/",
+    "ingredients": [
+      {
+        "n": "Baby bok choy",
+        "a": "230g",
+        "k": 30
+      },
+      {
+        "n": "Garlic",
+        "a": "3 cloves",
+        "k": 13
+      },
+      {
+        "n": "Cooking oil",
+        "a": "2 tsp",
+        "k": 80,
+        "alt": "Swap for 1 tsp oil + a spray of cooking oil — saves ~35 kcal"
+      },
+      {
+        "n": "Salt",
+        "a": "to taste",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Rinse and trim the bok choy, halving any larger heads lengthwise.",
+      "Heat oil in a wok or pan over medium-high heat; add minced garlic and stir for 20-30 seconds until fragrant.",
+      "Add bok choy and toss for 3-4 minutes until stems are just tender and leaves wilted.",
+      "Season with salt to taste and serve immediately."
+    ]
+  },
+  {
+    "id": "cn-tm7-bok-choy-oyster",
+    "name": "TM7 Garlic Oyster Sauce Bok Choy",
+    "cuisine": "Chinese",
+    "category": "vegetable",
+    "type": "TM7",
+    "cookTime": 12,
+    "calories": 67,
+    "protein": 2,
+    "fat": 6,
+    "carbs": 4,
+    "estimated": true,
+    "note": "Adapted from a Thermomix community recipe — oil and oyster sauce trimmed and the fried shallot garnish dropped to fit the 50-75 kcal target; calories estimated from ingredients. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures.",
+    "image": "https://d378dkvx927ebc.cloudfront.net/recipeimage/dmkt56yh-1d40f-158937-beea0-a9aqj8u6/9e495365-b5e3-48d7-a449-2ac7baede6aa/large/bok-choy-with-garlic-and-oyster-sauce.jpg",
+    "source": "Adapted from a Thermomix community recipe (lightened for TM7)",
+    "sourceUrl": "https://www.recipecommunity.com.au/main-dishes-vegetarian-recipes/bok-choy-with-garlic-and-oyster-sauce/dmkt56yh-1d40f-158937-beea0-a9aqj8u6",
+    "ingredients": [
+      {
+        "n": "Baby bok choy",
+        "a": "300g",
+        "k": 39
+      },
+      {
+        "n": "Garlic",
+        "a": "2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Cooking oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Oyster sauce",
+        "a": "1 tbsp",
+        "k": 27
+      },
+      {
+        "n": "Sesame oil",
+        "a": "1/2 tsp",
+        "k": 20
+      }
+    ],
+    "steps": [
+      "Place garlic in the mixing bowl; chop 3 sec/speed 6. Scrape down sides.",
+      "Add cooking oil and sesame oil; sauté 2 min/120°C/speed 1.",
+      "Add bok choy and oyster sauce; cook 4 min/100°C/speed 1/reverse (or use the Varoma basket if you prefer steaming).",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "sgmy-kangkong-garlic",
+    "name": "Stir-Fried Kangkong with Garlic",
+    "cuisine": "Singapore/Malaysian",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 62,
+    "protein": 2,
+    "fat": 5,
+    "carbs": 4,
+    "fiber": 2,
+    "image": "https://www.recipesbynora.com/wp-content/uploads/2024/04/Stir-Fried-Kangkong-recipe.jpg",
+    "source": "Recipes by Nora",
+    "sourceUrl": "https://www.recipesbynora.com/stir-fried-kangkong-recipe/",
+    "ingredients": [
+      {
+        "n": "Kangkong (water spinach)",
+        "a": "150g",
+        "k": 28
+      },
+      {
+        "n": "Garlic",
+        "a": "3 cloves",
+        "k": 13
+      },
+      {
+        "n": "Olive oil",
+        "a": "2 tsp",
+        "k": 80
+      },
+      {
+        "n": "Salt & pepper",
+        "a": "to taste",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Rinse kangkong and cut into 2-inch sections.",
+      "Heat oil in a wok over high heat; add minced garlic and stir-fry 20-30 seconds until fragrant.",
+      "Add kangkong and stir-fry 2-3 minutes until just wilted, stems still slightly crisp.",
+      "Season with salt and pepper; serve immediately."
+    ]
+  },
+  {
+    "id": "jp-spinach-ohitashi",
+    "name": "Spinach Ohitashi",
+    "cuisine": "Japanese",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 63,
+    "protein": 6,
+    "fat": 2,
+    "carbs": 8.2,
+    "fiber": 4,
+    "timeNote": "Needs at least 1 hour to chill/soak in the dashi before serving (not counted in cook time) — plan ahead, or serve right after blanching if you're short on time.",
+    "image": "https://www.justonecookbook.com/wp-content/uploads/2019/09/Spinach-Ohitashi-5650-I-1.jpg",
+    "source": "Just One Cookbook",
+    "sourceUrl": "https://www.justonecookbook.com/spinach-ohitashi-japanese-spinach-salad-with-bonito-flakes/",
+    "ingredients": [
+      {
+        "n": "Spinach",
+        "a": "227g (1 bunch)",
+        "k": 52
+      },
+      {
+        "n": "Kombu (dried kelp)",
+        "a": "5g",
+        "k": 3
+      },
+      {
+        "n": "Water",
+        "a": "120ml",
+        "k": 0
+      },
+      {
+        "n": "Mirin",
+        "a": "1 tbsp",
+        "k": 35
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "1 tbsp",
+        "k": 15
+      },
+      {
+        "n": "Sesame seeds, toasted",
+        "a": "1 tsp",
+        "k": 17
+      },
+      {
+        "n": "Bonito flakes (optional)",
+        "a": "small handful",
+        "k": 4
+      }
+    ],
+    "steps": [
+      "Bring a pot of water to a boil; blanch spinach for 30-60 seconds until just wilted. Transfer to ice water, then squeeze out excess liquid and cut into thirds.",
+      "Combine kombu and water; let steep 5 minutes (or use a quick dashi). Stir in mirin and soy sauce.",
+      "Soak the spinach in the dashi mixture for at least 1 hour in the fridge (can serve sooner if pressed for time, though flavor is best after resting).",
+      "Drain lightly, plate, and top with sesame seeds and bonito flakes if using."
+    ],
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
+    "estimated": true
+  },
+  {
+    "id": "med-garlic-sauteed-spinach",
+    "name": "Garlic Sautéed Spinach",
+    "cuisine": "Mediterranean",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 60,
+    "protein": 2,
+    "fat": 5,
+    "carbs": 3,
+    "estimated": true,
+    "note": "Oil reduced from the standard 1 tbsp/2 servings to 1.5 tsp to fit the 50-75 kcal target; calories recalculated from ingredients.",
+    "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/01/Garlic-Sauteed-Spinach-9.jpg",
+    "source": "Downshiftology (lightened)",
+    "sourceUrl": "https://downshiftology.com/recipes/garlic-sauteed-spinach/",
+    "ingredients": [
+      {
+        "n": "Baby spinach",
+        "a": "227g",
+        "k": 52
+      },
+      {
+        "n": "Olive oil",
+        "a": "1.5 tsp",
+        "k": 60
+      },
+      {
+        "n": "Garlic",
+        "a": "2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Salt & pepper",
+        "a": "to taste",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Heat olive oil in a large pan over medium heat; add minced garlic and cook 30 seconds until fragrant.",
+      "Add spinach in batches, tossing until wilted, about 2-3 minutes total.",
+      "Season with salt and pepper; serve warm."
+    ]
+  },
+  {
+    "id": "in-palak-sabzi-light",
+    "name": "Palak Sabzi (lightened)",
+    "cuisine": "Indian",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 13,
+    "calories": 69,
+    "protein": 3,
+    "fat": 6,
+    "carbs": 5,
+    "estimated": true,
+    "note": "Onions removed and oil cut from 3 tbsp/2-3 servings to 1.5 tsp/2 servings to fit the 50-75 kcal target — a notably lighter, quicker version of the traditional sabzi; calories recalculated from ingredients.",
+    "image": "https://yummyindiankitchen.com/wp-content/uploads/2015/12/how-to-make-palak-sabji.jpg",
+    "source": "Adapted from Yummy Indian Kitchen (lightened)",
+    "sourceUrl": "https://yummyindiankitchen.com/palak-sabji-recipe-palak-ki-sabzi/",
+    "ingredients": [
+      {
+        "n": "Spinach, chopped",
+        "a": "300g",
+        "k": 69
+      },
+      {
+        "n": "Cooking oil",
+        "a": "1.5 tsp",
+        "k": 60
+      },
+      {
+        "n": "Garlic",
+        "a": "1 clove",
+        "k": 4
+      },
+      {
+        "n": "Cumin seeds",
+        "a": "1/2 tsp",
+        "k": 5
+      },
+      {
+        "n": "Green chilli",
+        "a": "1",
+        "k": 1
+      },
+      {
+        "n": "Turmeric powder",
+        "a": "pinch",
+        "k": 0
+      },
+      {
+        "n": "Red chilli powder",
+        "a": "pinch",
+        "k": 0
+      },
+      {
+        "n": "Salt",
+        "a": "to taste",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Heat oil in a pan over medium heat; add cumin seeds and let them sizzle for 10-15 seconds.",
+      "Add minced garlic and chopped green chilli; sauté 20-30 seconds.",
+      "Add chopped spinach, turmeric, and chilli powder; stir well.",
+      "Cover and cook 6-8 minutes, stirring occasionally, until spinach is wilted and just tender.",
+      "Season with salt to taste and serve."
+    ]
+  },
+  {
+    "id": "wn-garlic-butter-spinach",
+    "name": "Garlic Butter Sautéed Spinach",
+    "cuisine": "Western",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 8,
+    "calories": 71,
+    "protein": 4,
+    "fat": 5,
+    "carbs": 6,
+    "timeNote": "Quick dish — ready in about 8 minutes total, slightly under the usual 10-15 min window.",
+    "image": "https://rasamalaysia.com/wp-content/uploads/2016/01/garlic-butter-spinach-thumb.jpg",
+    "source": "Rasa Malaysia",
+    "sourceUrl": "https://rasamalaysia.com/garlic-butter-sauteed-spinach/",
+    "ingredients": [
+      {
+        "n": "Salted butter, melted",
+        "a": "2 tbsp",
+        "k": 100
+      },
+      {
+        "n": "Garlic",
+        "a": "4 cloves",
+        "k": 17
+      },
+      {
+        "n": "Baby spinach",
+        "a": "230g",
+        "k": 20
+      },
+      {
+        "n": "Salt",
+        "a": "pinch",
+        "k": 0
+      },
+      {
+        "n": "Lemon juice",
+        "a": "1 tsp",
+        "k": 1
+      }
+    ],
+    "steps": [
+      "Melt butter in a pan over medium heat; add minced garlic and cook 30 seconds until fragrant (don't let it brown).",
+      "Add spinach in batches, tossing constantly until just wilted, about 2-3 minutes.",
+      "Remove from heat, stir in a pinch of salt and the lemon juice, and serve immediately."
+    ]
+  },
+  {
+    "id": "sgmy-sayur-goreng",
+    "name": "Sayur Goreng (Mixed Vegetable Stir-Fry)",
+    "cuisine": "Singapore/Malaysian",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 15,
+    "calories": 63,
+    "protein": 2,
+    "fat": 5,
+    "carbs": 6,
+    "estimated": true,
+    "note": "Calories calculated from ingredients; oil kept modest to fit the vegetable-side target.",
+    "image": "https://storage.dinejot.com/dishes/sayur-goreng.webp",
+    "source": "DineJot (adapted)",
+    "sourceUrl": "https://dinejot.com/recipe/sayur-goreng",
+    "ingredients": [
+      {
+        "n": "Cabbage, shredded",
+        "a": "150g",
+        "k": 23
+      },
+      {
+        "n": "Carrot, julienned",
+        "a": "50g",
+        "k": 12
+      },
+      {
+        "n": "Green beans, cut",
+        "a": "60g",
+        "k": 19
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Red chilli, sliced",
+        "a": "1",
+        "k": 3
+      },
+      {
+        "n": "Cooking oil",
+        "a": "1.5 tsp",
+        "k": 60
+      }
+    ],
+    "steps": [
+      "Heat oil in a wok over medium-high heat; add garlic and chilli, stir until fragrant.",
+      "Add carrot and green beans; stir-fry for 2-3 minutes.",
+      "Add cabbage and toss for another 2-3 minutes until just tender-crisp.",
+      "Season with salt to taste and serve immediately."
+    ]
+  },
+  {
+    "id": "jp-broccolini-gomaae",
+    "name": "Broccolini Gomaae",
+    "cuisine": "Japanese",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 15,
+    "calories": 74,
+    "protein": 3,
+    "fat": 3,
+    "carbs": 9.4,
+    "image": "https://www.justonecookbook.com/wp-content/uploads/2020/08/Broccolini-Gomaae-8281-I-2.jpg",
+    "source": "Just One Cookbook",
+    "sourceUrl": "https://www.justonecookbook.com/broccolini-gomaae/",
+    "ingredients": [
+      {
+        "n": "Broccolini",
+        "a": "227g",
+        "k": 60
+      },
+      {
+        "n": "Toasted sesame seeds",
+        "a": "1.5 tbsp",
+        "k": 70
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "1.5 tsp",
+        "k": 8
+      },
+      {
+        "n": "Sugar",
+        "a": "1.5 tsp",
+        "k": 12
+      }
+    ],
+    "steps": [
+      "Blanch broccolini in boiling salted water for 1-2 minutes until bright green and just tender; drain and cool.",
+      "Grind toasted sesame seeds in a suribachi (or mortar) until mostly crushed.",
+      "Mix ground sesame with soy sauce and sugar to form the gomaae dressing.",
+      "Toss broccolini with the dressing just before serving."
+    ],
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
+    "estimated": true
+  },
+  {
+    "id": "med-vegetable-medley",
+    "name": "Mediterranean Vegetable Medley (lightened)",
+    "cuisine": "Mediterranean",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 15,
+    "calories": 51,
+    "protein": 1,
+    "fat": 4,
+    "carbs": 5,
+    "estimated": true,
+    "note": "Lightened from the original: onion, feta and capers dropped and olives made optional to fit the vegetable-side calorie target.",
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2025/01/TMD-Mediterranean-Vegetable-Medley-Leads-02-Horizontal.jpg",
+    "source": "The Mediterranean Dish (adapted)",
+    "sourceUrl": "https://www.themediterraneandish.com/mediterranean-vegetable-medley/",
+    "ingredients": [
+      {
+        "n": "Bell pepper, sliced",
+        "a": "100g",
+        "k": 30
+      },
+      {
+        "n": "Cherry tomatoes, halved",
+        "a": "100g",
+        "k": 18
+      },
+      {
+        "n": "Garlic, sliced",
+        "a": "2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Dried oregano & rosemary",
+        "a": "1 tsp",
+        "k": 3
+      },
+      {
+        "n": "Lemon juice",
+        "a": "1 tsp",
+        "k": 1
+      },
+      {
+        "n": "Kalamata olives, sliced (optional)",
+        "a": "6",
+        "k": 0,
+        "alt": "Add for extra flavour — adds ~25 kcal"
+      }
+    ],
+    "steps": [
+      "Heat olive oil in a pan over medium heat; add garlic and cook until fragrant, about 30 seconds.",
+      "Add bell pepper and cook for 3-4 minutes until starting to soften.",
+      "Add cherry tomatoes, oregano and rosemary; cook for another 3-4 minutes until tomatoes just start to blister.",
+      "Finish with lemon juice and olives if using; serve warm."
+    ]
+  },
+  {
+    "id": "cn-garlic-broccoli-stirfry",
+    "name": "Garlic Broccoli Stir-Fry",
+    "cuisine": "Chinese",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 66,
+    "protein": 3,
+    "fat": 5,
+    "carbs": 5.5,
+    "estimated": true,
+    "note": "Oil reduced from the original 2 tsp to 1 tsp to fit the vegetable-side target; calories recalculated from ingredients. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures, soy sauce swapped for Everiday Organic Coconut Aminos, Shaoxing wine recalculated to Pagoda Hua Tiao Chiew's figures.",
+    "image": "https://christieathome.com/wp-content/uploads/2022/09/Chinese-Broccoli-Stir-Fry-14.jpg",
+    "source": "Christie at Home (adapted)",
+    "sourceUrl": "https://christieathome.com/chinese-broccoli-stir-fry/",
+    "ingredients": [
+      {
+        "n": "Chinese broccoli (gai lan), chopped",
+        "a": "300g",
+        "k": 40
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Cooking oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Water",
+        "a": "30ml",
+        "k": 0
+      },
+      {
+        "n": "Oyster sauce",
+        "a": "1.5 tsp",
+        "k": 14
+      },
+      {
+        "n": "Sesame oil",
+        "a": "0.5 tsp",
+        "k": 20
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Shaoxing wine",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Sugar",
+        "a": "pinch",
+        "k": 4
+      }
+    ],
+    "steps": [
+      "Blanch Chinese broccoli in boiling water for 1-2 minutes; drain well.",
+      "Heat cooking oil in a wok over high heat; add garlic and stir until fragrant.",
+      "Add blanched broccoli, water, oyster sauce, soy sauce, Shaoxing wine and sugar; toss for 1-2 minutes.",
+      "Drizzle with sesame oil and serve immediately."
+    ]
+  },
+  {
+    "id": "cn-tm7-broccoli-reverse-steam",
+    "name": "TM7 Reverse-Steamed Garlic Broccoli",
+    "cuisine": "Chinese",
+    "category": "vegetable",
+    "type": "TM7",
+    "cookTime": 10,
+    "calories": 55,
+    "protein": 3,
+    "fat": 5,
+    "carbs": 3,
+    "estimated": true,
+    "note": "Scaled down from a Recipe Community recipe serving 6 to serve 2.",
+    "image": "https://d378dkvx927ebc.cloudfront.net/recipeimage/rc7xvx9c-92716-835014-cfcd2-tirrpnaj/86c4840d-ef12-4641-914b-0ae19a9d4215/large/tasty-broccoli.jpg",
+    "source": "Recipe Community (adapted)",
+    "sourceUrl": "https://www.recipecommunity.com.au/vegetable-recipes/broccoli-reverse-steamed/",
+    "ingredients": [
+      {
+        "n": "Broccoli florets",
+        "a": "300g",
+        "k": 67
+      },
+      {
+        "n": "Garlic clove",
+        "a": "1",
+        "k": 4
+      },
+      {
+        "n": "Olive oil",
+        "a": "5g",
+        "k": 45
+      },
+      {
+        "n": "Water",
+        "a": "35g",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Place garlic and olive oil in the TM7 bowl; chop 3 sec/speed 5.",
+      "Add water; place broccoli florets in the Varoma dish and set Varoma on top.",
+      "Cook 12 min/Varoma/speed 2.",
+      "Season with salt and serve."
+    ]
+  },
+  {
+    "id": "in-broccoli-sabzi-light",
+    "name": "Broccoli Sabzi (lightened)",
+    "cuisine": "Indian",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 12,
+    "calories": 65,
+    "protein": 3,
+    "fat": 5,
+    "carbs": 5,
+    "estimated": true,
+    "note": "Onion dropped and coconut reduced from 2 tbsp to 1 tsp to fit the vegetable-side target.",
+    "image": "https://www.veganricha.com/wp-content/uploads/2017/01/vegan-brocoli-subzi-veganricha-8614.jpg",
+    "source": "Vegan Richa (adapted)",
+    "sourceUrl": "https://www.veganricha.com/broccoli-sabzi/",
+    "ingredients": [
+      {
+        "n": "Broccoli florets",
+        "a": "300g",
+        "k": 67
+      },
+      {
+        "n": "Cooking oil",
+        "a": "0.5 tsp",
+        "k": 20
+      },
+      {
+        "n": "Mustard seeds",
+        "a": "0.5 tsp",
+        "k": 8
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "2 cloves",
+        "k": 9
+      },
+      {
+        "n": "Ginger, grated",
+        "a": "1 tsp",
+        "k": 2
+      },
+      {
+        "n": "Green chilli, chopped",
+        "a": "1",
+        "k": 1
+      },
+      {
+        "n": "Turmeric powder",
+        "a": "0.25 tsp",
+        "k": 2
+      },
+      {
+        "n": "Ground coriander",
+        "a": "1 tsp",
+        "k": 7
+      },
+      {
+        "n": "Shredded coconut",
+        "a": "1 tsp",
+        "k": 15
+      }
+    ],
+    "steps": [
+      "Heat oil in a pan over medium heat; add mustard seeds and let them pop.",
+      "Add garlic, ginger and green chilli; saute for 30 seconds.",
+      "Add broccoli, turmeric and ground coriander; stir to coat.",
+      "Cover and cook for 5-6 minutes, stirring occasionally, until broccoli is tender.",
+      "Stir in shredded coconut and serve."
+    ]
+  },
+  {
+    "id": "wn-steamed-broccoli-parm",
+    "name": "Steamed Broccoli with Garlic, Lemon & Parmesan",
+    "cuisine": "Western",
+    "category": "vegetable",
+    "type": "regular",
+    "cookTime": 11,
+    "calories": 69,
+    "protein": 4,
+    "fat": 5,
+    "carbs": 4,
+    "estimated": true,
+    "note": "Made with olive oil instead of butter and without a panko topping to fit the vegetable-side target.",
+    "image": "https://diethood.com/wp-content/uploads/2015/01/Garlicky-Steamed-Broccoli-by-Diethood-e1525521420472.jpg",
+    "source": "Diethood (adapted)",
+    "sourceUrl": "https://diethood.com/garlicky-steamed-broccoli/",
+    "ingredients": [
+      {
+        "n": "Broccoli florets",
+        "a": "250g",
+        "k": 85
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Garlic clove, minced",
+        "a": "1",
+        "k": 4
+      },
+      {
+        "n": "Lemon zest & juice",
+        "a": "0.5 lemon",
+        "k": 2
+      },
+      {
+        "n": "Parmesan, grated",
+        "a": "2 tsp",
+        "k": 14
+      }
+    ],
+    "steps": [
+      "Steam broccoli florets for 5-6 minutes until just tender.",
+      "Heat olive oil in a small pan over medium heat; add garlic and cook until fragrant, about 30 seconds.",
+      "Toss steamed broccoli with the garlic oil, lemon zest and juice.",
+      "Top with grated parmesan and serve."
+    ]
+  },
+  {
+    "id": "sm-pb-banana-cacao",
+    "name": "High Protein Breakfast Smoothie",
+    "flavor": "Peanut Butter & Banana",
+    "category": "smoothie",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 1,
+    "calories": 447,
+    "protein": 22,
+    "fat": 18,
+    "carbs": 46,
+    "estimated": true,
+    "note": "Calories calculated from ingredients; protein figure as published by the source.",
+    "image": "http://static1.squarespace.com/static/62960fbcf024ae5e0856a916/629615c9a42bc6519af3ef07/631e0f4b1688641c58fe4086/1663515457950/Screen+Shot+2022-09-11+at+11.46.08+AM.png?format=1500w",
+    "source": "Angie Asche / Eleat Sports Nutrition",
+    "sourceUrl": "https://www.eleatnutrition.com/blog/high-protein-breakfast-smoothie",
+    "ingredients": [
+      {
+        "n": "2% milk",
+        "a": "180ml",
+        "k": 90
+      },
+      {
+        "n": "Frozen banana",
+        "a": "1 large",
+        "k": 105
+      },
+      {
+        "n": "Peanut butter",
+        "a": "2 tbsp",
+        "k": 190
+      },
+      {
+        "n": "Cacao powder",
+        "a": "1 tbsp",
+        "k": 12
+      },
+      {
+        "n": "Plain Greek yogurt",
+        "a": "80g",
+        "k": 50
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend on high until smooth, about 30-45 seconds.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "sm-gut-healthy-berry",
+    "name": "Gut Healthy Berry Smoothie",
+    "flavor": "Berry",
+    "category": "smoothie",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 1,
+    "calories": 360,
+    "protein": 27,
+    "fat": 9,
+    "carbs": 37,
+    "estimated": true,
+    "note": "Source published no macro data; calories and macros fully calculated from ingredients.",
+    "image": "http://static1.squarespace.com/static/62960fbcf024ae5e0856a916/629615c9a42bc6519af3ef07/62961833a42bc6519af43a25/1654003777493/FullSizeRender+302.jpg?format=1500w",
+    "source": "Angie Asche / Eleat Sports Nutrition",
+    "sourceUrl": "https://www.eleatnutrition.com/blog/gut-healthy-berry-smoothie",
+    "ingredients": [
+      {
+        "n": "Unsweetened almond milk",
+        "a": "360ml",
+        "k": 40
+      },
+      {
+        "n": "Frozen banana",
+        "a": "90g",
+        "k": 80
+      },
+      {
+        "n": "Frozen mixed berries",
+        "a": "65g",
+        "k": 33
+      },
+      {
+        "n": "Non-dairy yogurt",
+        "a": "60g",
+        "k": 30
+      },
+      {
+        "n": "Ground flaxseed",
+        "a": "1 tbsp",
+        "k": 55
+      },
+      {
+        "n": "Vanilla plant protein powder",
+        "a": "1 scoop",
+        "k": 120
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend on high until smooth, about 30-45 seconds.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "sm-choc-pb-lightened",
+    "name": "Chocolate Peanut Butter Protein Smoothie (lightened)",
+    "flavor": "Chocolate & Peanut Butter",
+    "category": "smoothie",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 1,
+    "calories": 392,
+    "protein": 35,
+    "fat": 13,
+    "carbs": 49,
+    "estimated": true,
+    "note": "Lightened from the published 524 kcal version: oats cut from 1/3 cup to 2 tbsp, peanut butter cut from 2 tbsp to 1 tbsp, and milk reduced.",
+    "image": "https://thealmondeater.com/wp-content/uploads/2014/06/Chocolate-Peanut-Butter-Protein-Smoothie-1-3.jpg",
+    "source": "The Almond Eater (adapted)",
+    "sourceUrl": "https://thealmondeater.com/chocolate-peanut-butter-protein-smoothie/",
+    "ingredients": [
+      {
+        "n": "Banana",
+        "a": "1",
+        "k": 105
+      },
+      {
+        "n": "Peanut butter",
+        "a": "1 tbsp",
+        "k": 95
+      },
+      {
+        "n": "Cocoa powder",
+        "a": "1 tbsp",
+        "k": 12
+      },
+      {
+        "n": "Chocolate protein powder",
+        "a": "1 scoop",
+        "k": 120
+      },
+      {
+        "n": "Rolled oats",
+        "a": "2 tbsp",
+        "k": 30
+      },
+      {
+        "n": "Milk",
+        "a": "60ml",
+        "k": 30
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a blender along with a handful of ice.",
+      "Blend on high until smooth, about 30-45 seconds.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "sm-green-boosted",
+    "name": "Green Protein Smoothie (boosted)",
+    "flavor": "Green",
+    "category": "smoothie",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 1,
+    "calories": 430,
+    "protein": 40,
+    "fat": 15,
+    "carbs": 38,
+    "estimated": true,
+    "note": "Boosted from the published 268 kcal / 17g protein version, which fell short of both targets: protein powder increased to 1.5 scoops and 1 tsp almond butter added.",
+    "image": "https://www.eatingbirdfood.com/wp-content/uploads/2022/01/green-protein-smoothie-hero.jpg",
+    "source": "Eating Bird Food (adapted)",
+    "sourceUrl": "https://www.eatingbirdfood.com/green-protein-smoothie/",
+    "ingredients": [
+      {
+        "n": "Frozen banana",
+        "a": "1",
+        "k": 105
+      },
+      {
+        "n": "Vanilla protein powder",
+        "a": "1.5 scoops",
+        "k": 180
+      },
+      {
+        "n": "Unsweetened vanilla almond milk",
+        "a": "240ml",
+        "k": 40
+      },
+      {
+        "n": "Baby spinach",
+        "a": "60g",
+        "k": 14
+      },
+      {
+        "n": "Chia seeds",
+        "a": "1 tbsp",
+        "k": 58
+      },
+      {
+        "n": "Almond butter",
+        "a": "1 tsp",
+        "k": 33
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend on high until smooth, about 30-45 seconds.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "sm-mango-tropical",
+    "name": "Tropical Mango Protein Smoothie",
+    "flavor": "Tropical",
+    "category": "smoothie",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 1,
+    "calories": 375,
+    "protein": 42,
+    "fat": 6,
+    "carbs": 40,
+    "estimated": true,
+    "note": "Nudged up from the published 330 kcal version by increasing protein powder from 1/2 scoop to a full scoop to meet the 20g+ protein target.",
+    "image": "https://amberssuperfoodsmoothies.com/wp-content/uploads/2025/09/mango-protein-smoothie-featured.jpg",
+    "source": "Amber's Superfood Smoothies (adapted)",
+    "sourceUrl": "https://amberssuperfoodsmoothies.com/mango-protein-smoothie/",
+    "ingredients": [
+      {
+        "n": "Frozen mango",
+        "a": "225g",
+        "k": 135
+      },
+      {
+        "n": "Unsweetened soy milk",
+        "a": "240ml",
+        "k": 80
+      },
+      {
+        "n": "Vanilla plant protein powder",
+        "a": "1 scoop",
+        "k": 120
+      },
+      {
+        "n": "Collagen peptides",
+        "a": "10g",
+        "k": 36
+      },
+      {
+        "n": "Lemon juice",
+        "a": "1 tbsp",
+        "k": 4
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend on high until smooth, about 30-45 seconds.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "cond-ponzu-sauce",
+    "name": "Ponzu Sauce",
+    "cuisine": "Japanese",
+    "category": "sauce",
+    "subcategory": "condiment",
+    "type": "regular",
+    "cookTime": 10,
+    "servings": 24,
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 3.6,
+    "timeNote": "10 min active prep, but needs at least 1 hour (2-3 days recommended) to steep in the fridge before straining and using — plan ahead. Keeps up to 1 month refrigerated.",
+    "image": "https://www.theendlessmeal.com/wp-content/uploads/2023/09/ponzu-sauce-recipe-4.jpg",
+    "source": "The Endless Meal",
+    "sourceUrl": "https://www.theendlessmeal.com/ponzu-sauce/",
+    "ingredients": [
+      {
+        "n": "Coconut aminos",
+        "a": "120ml",
+        "k": 120
+      },
+      {
+        "n": "Mirin",
+        "a": "120ml",
+        "k": 218
+      },
+      {
+        "n": "Fresh lime juice",
+        "a": "60ml",
+        "k": 15
+      },
+      {
+        "n": "Fresh lemon juice",
+        "a": "60ml",
+        "k": 13
+      },
+      {
+        "n": "Rice vinegar",
+        "a": "2 tbsp",
+        "k": 6
+      },
+      {
+        "n": "Grapefruit zest",
+        "a": "1 tsp",
+        "k": 1
+      },
+      {
+        "n": "Dried bonito flakes (katsuobushi)",
+        "a": "5g",
+        "k": 17
+      },
+      {
+        "n": "Dried kelp (kombu)",
+        "a": "1 piece",
+        "k": 5
+      }
+    ],
+    "steps": [
+      "Combine soy sauce, mirin, lime juice, lemon juice, rice vinegar and grapefruit zest in a jar.",
+      "Add bonito flakes and kombu; shake to combine.",
+      "Refrigerate for at least 1 hour, ideally 2-3 days, for the flavours to develop.",
+      "Strain before using. Keeps up to 1 month refrigerated."
+    ],
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
+    "estimated": true
+  },
+  {
+    "id": "cond-schug",
+    "name": "Schug (Zhug)",
+    "cuisine": "Mediterranean",
+    "category": "sauce",
+    "subcategory": "condiment",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 16,
+    "calories": 43,
+    "protein": 0,
+    "fat": 5,
+    "carbs": 1,
+    "estimated": true,
+    "note": "Source does not publish calories — calculated from ingredients.",
+    "image": "https://www.healthyishandhappy.com/wp-content/uploads/2020/12/IMG_1546-scaled.jpg",
+    "source": "Healthy-ish & Happy",
+    "sourceUrl": "https://www.healthyishandhappy.com/healthy-recipes/schug-zhug/",
+    "ingredients": [
+      {
+        "n": "Spicy peppers (bird's eye or serrano), chopped",
+        "a": "4",
+        "k": 12
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "4",
+        "k": 18
+      },
+      {
+        "n": "Parsley, chopped",
+        "a": "30g",
+        "k": 4
+      },
+      {
+        "n": "Cilantro, chopped",
+        "a": "15g",
+        "k": 4
+      },
+      {
+        "n": "Lemon juice",
+        "a": "2 tbsp",
+        "k": 8
+      },
+      {
+        "n": "Salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Dried oregano",
+        "a": "1 tsp",
+        "k": 3
+      },
+      {
+        "n": "Ground cumin",
+        "a": "1 tsp",
+        "k": 2
+      },
+      {
+        "n": "Ground coriander",
+        "a": "1 tsp",
+        "k": 2
+      },
+      {
+        "n": "Cardamom powder",
+        "a": "0.5 tsp",
+        "k": 1
+      },
+      {
+        "n": "Extra virgin olive oil",
+        "a": "80ml",
+        "k": 631
+      }
+    ],
+    "steps": [
+      "Blend chilli and garlic in a food processor to break up.",
+      "Add parsley, cilantro, lemon juice and spices; pulse to chop.",
+      "Scrape down the bowl. With the machine running, slowly drizzle in the olive oil to emulsify — the sauce should stay slightly chunky.",
+      "Store airtight in the fridge; serve with pita, yoghurt, grilled vegetables or meat."
+    ]
+  },
+  {
+    "id": "cond-ginger-scallion-sauce",
+    "name": "Ginger Scallion Sauce",
+    "cuisine": "Chinese",
+    "category": "sauce",
+    "subcategory": "condiment",
+    "type": "regular",
+    "cookTime": 10,
+    "servings": 32,
+    "calories": 47,
+    "protein": 0,
+    "fat": 5,
+    "carbs": 0,
+    "estimated": true,
+    "note": "Source's published total (784 kcal/batch) looked inconsistent with the ingredient list — recalculated from ingredients instead, which came out higher due to the 3/4 cup of oil.",
+    "image": "https://thefoodietakesflight.com/wp-content/uploads/2020/10/GINGER-SCALLION-SAUCE.png",
+    "source": "The Foodie Takes Flight",
+    "sourceUrl": "https://thefoodietakesflight.com/ginger-scallion-sauce/",
+    "ingredients": [
+      {
+        "n": "Scallions (green onions), finely minced",
+        "a": "113g",
+        "k": 36
+      },
+      {
+        "n": "Fresh ginger, peeled & finely minced",
+        "a": "48g",
+        "k": 38
+      },
+      {
+        "n": "Neutral oil (avocado, canola or rice bran)",
+        "a": "180ml",
+        "k": 1440
+      },
+      {
+        "n": "Salt",
+        "a": "0.75 tsp",
+        "k": 0
+      },
+      {
+        "n": "Chinese five-spice powder (optional)",
+        "a": "0.125 tsp",
+        "k": 2
+      }
+    ],
+    "steps": [
+      "Finely mince scallions and ginger; combine in a heat-proof bowl with the salt.",
+      "Heat oil to 150-175°C (until a piece of scallion sizzles immediately when dropped in).",
+      "Carefully pour the hot oil over the ginger-scallion mixture; stir.",
+      "Adjust seasoning and stir in the five-spice powder if using. Cool, then refrigerate up to 1 month."
+    ]
+  },
+  {
+    "id": "cond-cilantro-mint-chutney",
+    "name": "Cilantro Mint Chutney",
+    "cuisine": "Indian",
+    "category": "sauce",
+    "subcategory": "condiment",
+    "type": "regular",
+    "cookTime": 15,
+    "servings": 14,
+    "calories": 35,
+    "protein": 1,
+    "fat": 3,
+    "carbs": 2,
+    "image": "https://ministryofcurry.com/wp-content/uploads/2020/05/cilantro-mint-chutney-7.jpg",
+    "source": "Ministry of Curry",
+    "sourceUrl": "https://ministryofcurry.com/cilantro-mint-chutney/",
+    "ingredients": [
+      {
+        "n": "Cilantro, leaves & stems, roughly chopped",
+        "a": "70g (2 cups packed)",
+        "k": 22
+      },
+      {
+        "n": "Mint leaves",
+        "a": "15g (1 cup)",
+        "k": 6
+      },
+      {
+        "n": "Unsweetened shredded coconut",
+        "a": "40g",
+        "k": 148
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "4",
+        "k": 18
+      },
+      {
+        "n": "Cumin seeds",
+        "a": "2 tsp",
+        "k": 16
+      },
+      {
+        "n": "Small green chillies or 1-2 jalapeños",
+        "a": "4-8",
+        "k": 10
+      },
+      {
+        "n": "Lemon, juiced",
+        "a": "1",
+        "k": 11
+      },
+      {
+        "n": "Kosher salt",
+        "a": "1-3 tsp",
+        "k": 0
+      },
+      {
+        "n": "Sugar",
+        "a": "2-4 tsp",
+        "k": 32
+      },
+      {
+        "n": "Water",
+        "a": "120ml",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend until smooth, adding 1-2 tbsp more water if needed to loosen.",
+      "Taste and adjust salt/sugar as needed."
+    ]
+  },
+  {
+    "id": "cond-healthy-bbq-sauce",
+    "name": "Healthy BBQ Sauce",
+    "cuisine": "Western",
+    "category": "sauce",
+    "subcategory": "condiment",
+    "type": "regular",
+    "cookTime": 15,
+    "servings": 20,
+    "calories": 25,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 6,
+    "note": "Simmer time shortened from the published 20 min to about 13 min to fit the 15-minute cap — sauce will be very slightly thinner but still thickens well off the heat.",
+    "image": "https://ifoodreal.com/wp-content/uploads/2021/06/healthy-bbq-sauce-fg.jpg",
+    "source": "iFoodReal (adapted)",
+    "sourceUrl": "https://ifoodreal.com/healthy-bbq-sauce/",
+    "ingredients": [
+      {
+        "n": "Water",
+        "a": "240ml",
+        "k": 0
+      },
+      {
+        "n": "Tomato paste",
+        "a": "170g (6 oz)",
+        "k": 140
+      },
+      {
+        "n": "Unsweetened applesauce",
+        "a": "120g",
+        "k": 52
+      },
+      {
+        "n": "Unsulphured molasses",
+        "a": "3 tbsp",
+        "k": 155
+      },
+      {
+        "n": "Apple cider vinegar",
+        "a": "2 tbsp",
+        "k": 6
+      },
+      {
+        "n": "Honey or maple syrup",
+        "a": "1 tbsp",
+        "k": 64
+      },
+      {
+        "n": "Onion powder",
+        "a": "1 tbsp",
+        "k": 24
+      },
+      {
+        "n": "Garlic powder",
+        "a": "1 tbsp",
+        "k": 30
+      },
+      {
+        "n": "Yellow mustard",
+        "a": "1 tsp",
+        "k": 3
+      },
+      {
+        "n": "Liquid smoke",
+        "a": "1 tsp",
+        "k": 1
+      },
+      {
+        "n": "Salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Cayenne pepper",
+        "a": "0.125 tsp",
+        "k": 1
+      }
+    ],
+    "steps": [
+      "Combine all ingredients in a saucepan; whisk to combine.",
+      "Bring to a boil, then reduce heat and simmer uncovered (half-covered), stirring occasionally, for about 13 minutes until slightly thickened.",
+      "Cool completely before transferring to a jar. Makes about 2.5 cups; keeps refrigerated up to 2 weeks."
+    ]
+  },
+  {
+    "id": "salad-yu-sheng-sauce",
+    "name": "Yu Sheng Sauce",
+    "cuisine": "Singapore/Malaysian",
+    "category": "sauce",
+    "subcategory": "salad-sauce",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 2,
+    "calories": 64,
+    "protein": 0,
+    "fat": 3.1,
+    "carbs": 8,
+    "estimated": true,
+    "note": "Source does not publish calories — calculated from ingredients. Uses store-bought plum sauce as a shortcut base rather than building the sauce fully from scratch. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures.",
+    "image": "https://noobcook.com/wp-content/uploads/2012/01/tossingyusheng.jpg",
+    "source": "Noobcook",
+    "sourceUrl": "https://noobcook.com/yu-sheng-chinese-new-year-raw-fish-salad/",
+    "ingredients": [
+      {
+        "n": "Chinese plum sauce",
+        "a": "2.5 tbsp",
+        "k": 88
+      },
+      {
+        "n": "Sesame oil",
+        "a": "1 tsp",
+        "k": 41
+      },
+      {
+        "n": "Hot water",
+        "a": "1 tbsp (to taste)",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Add plum sauce and sesame oil to a small bowl.",
+      "Stir in hot water a little at a time until you reach your desired consistency.",
+      "Mix until evenly combined; drizzle over the salad just before tossing."
+    ]
+  },
+  {
+    "id": "salad-japanese-sesame-dressing",
+    "name": "Japanese Sesame Dressing (lightened)",
+    "cuisine": "Japanese",
+    "category": "sauce",
+    "subcategory": "salad-sauce",
+    "type": "regular",
+    "cookTime": 10,
+    "servings": 3,
+    "calories": 57,
+    "protein": 1,
+    "fat": 5,
+    "carbs": 2.2,
+    "estimated": true,
+    "note": "Lightened from the published version (which worked out to ~178 kcal for an oversized ~3.5 tbsp portion): mayo swapped for light mayo and cut from 2 tbsp to 1 tbsp, sesame oil cut from 1 tsp to 1/2 tsp. Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos, sesame oil recalculated to Double Pagoda's figures.",
+    "image": "https://sudachirecipes.com/wp-content/uploads/2022/08/Japanese-sesame-dressing-thumbnail.jpg",
+    "source": "Sudachi Recipes (adapted)",
+    "sourceUrl": "https://sudachirecipes.com/japanese-sesame-dressing/",
+    "ingredients": [
+      {
+        "n": "Toasted white sesame seeds",
+        "a": "1.5 tbsp",
+        "k": 78
+      },
+      {
+        "n": "Light mayonnaise",
+        "a": "1 tbsp",
+        "k": 50
+      },
+      {
+        "n": "Unseasoned rice vinegar",
+        "a": "1 tsp",
+        "k": 1
+      },
+      {
+        "n": "Sugar",
+        "a": "1 tsp",
+        "k": 16
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Toasted sesame oil",
+        "a": "0.5 tsp",
+        "k": 20
+      }
+    ],
+    "steps": [
+      "Toast sesame seeds in a dry pan until fragrant and golden, stirring to avoid burning.",
+      "Grind with a mortar and pestle to a fine powder.",
+      "Transfer to a container; add light mayonnaise, rice vinegar, sugar, soy sauce and sesame oil.",
+      "Mix until fully combined."
+    ]
+  },
+  {
+    "id": "salad-tzatziki",
+    "name": "Tzatziki",
+    "cuisine": "Mediterranean",
+    "category": "sauce",
+    "subcategory": "salad-sauce",
+    "type": "regular",
+    "cookTime": 10,
+    "servings": 8,
+    "calories": 42,
+    "protein": 3,
+    "fat": 2,
+    "carbs": 2,
+    "timeNote": "Published as 30 min prep + 30 min \"cook\" — this reflects passive draining/resting time, not active hands-on work, which is closer to 10 minutes.",
+    "image": "https://flidfit.com/wp-content/uploads/2018/07/img_1670.jpg",
+    "source": "flidfit",
+    "sourceUrl": "https://flidfit.com/2018/07/25/tzatziki-42-calories-per-serving/",
+    "ingredients": [
+      {
+        "n": "Cucumber, grated & drained",
+        "a": "90g",
+        "k": 15
+      },
+      {
+        "n": "Garlic clove, minced",
+        "a": "1",
+        "k": 4
+      },
+      {
+        "n": "Fresh lemon juice",
+        "a": "12ml",
+        "k": 3
+      },
+      {
+        "n": "Extra virgin olive oil",
+        "a": "5ml",
+        "k": 44
+      },
+      {
+        "n": "Fresh mint, chopped",
+        "a": "1 tbsp",
+        "k": 0
+      },
+      {
+        "n": "Greek yoghurt, 5% fat",
+        "a": "300g",
+        "k": 270
+      }
+    ],
+    "steps": [
+      "Coarsely grate the cucumber (seeds removed), then squeeze out excess water using a sieve or tea towel.",
+      "Mix the drained cucumber into the yoghurt with finely chopped garlic, olive oil, mint and lemon juice.",
+      "Rest for about 30 minutes in the fridge for the flavours to meld before serving."
+    ]
+  },
+  {
+    "id": "salad-smashed-cucumber-dressing",
+    "name": "Smashed Asian Cucumber Salad Dressing",
+    "cuisine": "Chinese",
+    "category": "sauce",
+    "subcategory": "salad-sauce",
+    "type": "regular",
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 35,
+    "protein": 0,
+    "fat": 3.1,
+    "carbs": 2.4,
+    "estimated": true,
+    "note": "Source only publishes calories for the finished salad (dressing + cucumber) — this figure is the dressing component isolated and calculated on its own. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures, soy sauce swapped for Everiday Organic Coconut Aminos.",
+    "image": "https://thewoksoflife.com/wp-content/uploads/2015/06/smashed-asian-cucumber-salad-5.jpg",
+    "source": "The Woks of Life",
+    "sourceUrl": "https://thewoksoflife.com/smashed-asian-cucumber-salad/",
+    "ingredients": [
+      {
+        "n": "Salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Sugar",
+        "a": "2.5 tsp",
+        "k": 40
+      },
+      {
+        "n": "Sesame oil",
+        "a": "2 tsp",
+        "k": 82
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "3 tsp",
+        "k": 15
+      },
+      {
+        "n": "Rice vinegar",
+        "a": "1.5 tbsp",
+        "k": 2
+      }
+    ],
+    "steps": [
+      "Combine salt, sugar, sesame oil, light soy sauce and rice vinegar in a bowl.",
+      "Stir until the sugar and salt fully dissolve.",
+      "Toss with smashed cucumber just before serving."
+    ]
+  },
+  {
+    "id": "salad-indian-yoghurt-dressing",
+    "name": "Indian Creamy Yoghurt Dressing",
+    "cuisine": "Indian",
+    "category": "sauce",
+    "subcategory": "salad-sauce",
+    "type": "regular",
+    "cookTime": 12,
+    "servings": 2,
+    "calories": 58,
+    "protein": 2,
+    "fat": 3,
+    "carbs": 4,
+    "image": "https://brinsbites.com/wp-content/uploads/2024/08/salad-dressing-FI-400x400.jpg",
+    "source": "Brin's Bites",
+    "sourceUrl": "https://brinsbites.com/indian-salad-dressing-creamy-yoghurt-dressing-recipe/",
+    "ingredients": [
+      {
+        "n": "Plain Greek-style yoghurt",
+        "a": "3-4 tbsp",
+        "k": 40
+      },
+      {
+        "n": "Turmeric powder",
+        "a": "1 tsp",
+        "k": 8
+      },
+      {
+        "n": "Kashmiri chilli powder",
+        "a": "1 tsp",
+        "k": 6
+      },
+      {
+        "n": "Cumin powder",
+        "a": "1 tsp",
+        "k": 8
+      },
+      {
+        "n": "Kashmiri chilli flakes",
+        "a": "1 tsp",
+        "k": 6
+      },
+      {
+        "n": "Garlic powder",
+        "a": "1 tsp",
+        "k": 10
+      },
+      {
+        "n": "Cracked black pepper",
+        "a": "1 tsp",
+        "k": 6
+      },
+      {
+        "n": "Onion salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Fresh coriander, chopped",
+        "a": "small handful",
+        "k": 2
+      },
+      {
+        "n": "Fresh dill, chopped",
+        "a": "small handful",
+        "k": 2
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "2",
+        "k": 9
+      },
+      {
+        "n": "Green chillies, chopped",
+        "a": "2",
+        "k": 3
+      }
+    ],
+    "steps": [
+      "Finely chop dill, coriander, chillies and garlic; place in a jar.",
+      "Add yoghurt and all seasonings.",
+      "Shake vigorously for about 5 minutes until fully combined.",
+      "Drizzle over leafy greens and toppings."
+    ]
+  },
+  {
+    "id": "salad-balsamic-vinaigrette",
+    "name": "Balsamic Vinaigrette",
+    "cuisine": "Western",
+    "category": "sauce",
+    "subcategory": "salad-sauce",
+    "type": "regular",
+    "cookTime": 5,
+    "servings": 3,
+    "calories": 34,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 6,
+    "note": "Source publishes calories per tablespoon (17 kcal); figure here is for a standard 2-tablespoon dressing serving.",
+    "image": "https://www.pcrm.org/sites/default/files/vinegar-balsamic.png",
+    "source": "Physicians Committee for Responsible Medicine",
+    "sourceUrl": "https://www.pcrm.org/good-nutrition/plant-based-diets/recipes/balsamic-vinaigrette",
+    "ingredients": [
+      {
+        "n": "Balsamic vinegar",
+        "a": "30ml",
+        "k": 34
+      },
+      {
+        "n": "Seasoned rice vinegar",
+        "a": "30ml",
+        "k": 10
+      },
+      {
+        "n": "Ketchup",
+        "a": "15ml",
+        "k": 17
+      },
+      {
+        "n": "Stone-ground mustard",
+        "a": "1 tsp",
+        "k": 3
+      },
+      {
+        "n": "Garlic clove, pressed",
+        "a": "1",
+        "k": 4
+      }
+    ],
+    "steps": [
+      "Whisk vinegars, ketchup, mustard and pressed garlic together until combined.",
+      "Store in a jar in the fridge; shake before using."
+    ]
+  }
+]
