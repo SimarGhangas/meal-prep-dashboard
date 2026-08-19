@@ -893,7 +893,9 @@ function openModal(id){
           <div><b>${r.carbs ?? '–'}g</b>carbs</div>
           ${r.fiber?`<div><b>${r.fiber}g</b>fibre</div>`:''}
           ${r.sugar?`<div><b>${r.sugar}g</b>sugar</div>`:''}
+          ${r.cookedWeightG?`<div><b>${r.cookedWeightG}g</b>weight (est.)</div>`:''}
         </div>
+        ${r.cookedWeightG?`<div style="font-size:0.72rem;color:var(--muted);margin:6px 0 10px;">Estimated cooked weight per serving, from ingredient cooking-yield calculations — not a real weigh-in. Weigh your own finished dish to refine this figure over time. Covers only what's in this recipe's ingredient list (add extra weight if you plate it with rice/bread/sides not listed here).</div>`:''}
         <h4 style="margin:0 0 4px;font-size:0.85rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.03em;">Per-ingredient breakdown</h4>
         <table class="ing">
           ${r.ingredients.map(i=>`<tr><td>${i.n} <span style="color:var(--muted)">— ${i.a}</span></td><td class="kcal">${i.k} kcal</td></tr>`).join('')}

@@ -88,7 +88,8 @@
     "category": "main",
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — light coconut milk recalculated to Kara Light UHT's actual figures (137 kcal/100ml, higher than the previous generic estimate).",
     "estimated": true,
-    "imageCredit": "Illustrative photo from Rasa Malaysia (rasamalaysia.com) — not a photo of this exact recipe (original image was no longer loading)"
+    "imageCredit": "Illustrative photo from Rasa Malaysia (rasamalaysia.com) — not a photo of this exact recipe (original image was no longer loading)",
+    "cookedWeightG": 430
   },
   {
     "id": "jp-teriyaki-salmon-bowl",
@@ -170,7 +171,8 @@
     ],
     "category": "main",
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — teriyaki sauce swapped for Niulife Organic Teriyaki Coconut Amino (the product actually used); sake calories use a generic cooking-sake reference (Takara's own nutrition data isn't published) — marked estimated.",
-    "estimated": true
+    "estimated": true,
+    "cookedWeightG": 462
   },
   {
     "id": "tm7-teriyaki-chicken",
@@ -257,7 +259,8 @@
     ],
     "category": "main",
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used). Sodium field (1237mg) not recalculated — original per-ingredient sodium breakdown isn't available, but coconut aminos run meaningfully lower in sodium than regular soy sauce.",
-    "estimated": true
+    "estimated": true,
+    "cookedWeightG": 192
   },
   {
     "id": "med-chicken",
@@ -346,7 +349,8 @@
       "Reduce heat to medium. Add garlic, wine, tomatoes, olives and capers. Cook 3-4 minutes until tomatoes soften.",
       "Stir in spinach and feta. Return chicken to the skillet and warm through for 1-2 minutes until spinach wilts."
     ],
-    "category": "main"
+    "category": "main",
+    "cookedWeightG": 171
   },
   {
     "id": "tm7-beef-curry",
@@ -455,7 +459,8 @@
       "Add stock, tomato paste, yoghurt and beef. Cook 25 min/Varoma/Speed 1 (Reverse Blade).",
       "Add garam masala and kasoori methi. Cook 1 min/Varoma/Speed 1 (Reverse Blade). Serve."
     ],
-    "category": "main"
+    "category": "main",
+    "cookedWeightG": 350
   },
   {
     "id": "tm7-laksa-lightened",
@@ -554,7 +559,8 @@
       "Boil water separately; pour over rice noodles in a serving dish to soften.",
       "Drain noodles, add tofu, pour the laksa over, stir gently, cover and rest 5 minutes."
     ],
-    "category": "main"
+    "category": "main",
+    "cookedWeightG": 474
   },
   {
     "id": "sgmy-beef-ho-fun",
@@ -697,7 +703,8 @@
       "Serve immediately, topped with chili oil and chili flakes if desired."
     ],
     "imageCredit": "Illustrative photo from Red House Spice (redhousespice.com) — not a photo of this exact recipe",
-    "category": "main"
+    "category": "main",
+    "cookedWeightG": 424
   },
   {
     "id": "tm7-hainanese-chicken-rice",
@@ -804,7 +811,8 @@
       "Slice the chicken, drizzle with the sauce, and serve with the rice and sliced cucumber."
     ],
     "imageCredit": "Illustrative photo from The Woks of Life (thewoksoflife.com) — not a photo of this exact recipe",
-    "category": "main"
+    "category": "main",
+    "cookedWeightG": 421
   },
   {
     "id": "cn-garlic-bok-choy",
@@ -850,7 +858,8 @@
       "Heat oil in a wok or pan over medium-high heat; add minced garlic and stir for 20-30 seconds until fragrant.",
       "Add bok choy and toss for 3-4 minutes until stems are just tender and leaves wilted.",
       "Season with salt to taste and serve immediately."
-    ]
+    ],
+    "cookedWeightG": 110
   },
   {
     "id": "cn-tm7-bok-choy-oyster",
@@ -900,7 +909,8 @@
       "Add cooking oil and sesame oil; sauté 2 min/120°C/speed 1.",
       "Add bok choy and oyster sauce; cook 4 min/100°C/speed 1/reverse (or use the Varoma basket if you prefer steaming).",
       "Serve immediately."
-    ]
+    ],
+    "cookedWeightG": 143
   },
   {
     "id": "sgmy-kangkong-garlic",
@@ -944,7 +954,8 @@
       "Heat oil in a wok over high heat; add minced garlic and stir-fry 20-30 seconds until fragrant.",
       "Add kangkong and stir-fry 2-3 minutes until just wilted, stems still slightly crisp.",
       "Season with salt and pepper; serve immediately."
-    ]
+    ],
+    "cookedWeightG": 76
   },
   {
     "id": "jp-spinach-ohitashi",
@@ -1006,7 +1017,8 @@
       "Drain lightly, plate, and top with sesame seeds and bonito flakes if using."
     ],
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
-    "estimated": true
+    "estimated": true,
+    "cookedWeightG": 170
   },
   {
     "id": "med-garlic-sauteed-spinach",
@@ -1050,7 +1062,8 @@
       "Heat olive oil in a large pan over medium heat; add minced garlic and cook 30 seconds until fragrant.",
       "Add spinach in batches, tossing until wilted, about 2-3 minutes total.",
       "Season with salt and pepper; serve warm."
-    ]
+    ],
+    "cookedWeightG": 105
   },
   {
     "id": "in-palak-sabzi-light",
@@ -1116,7 +1129,8 @@
       "Add chopped spinach, turmeric, and chilli powder; stir well.",
       "Cover and cook 6-8 minutes, stirring occasionally, until spinach is wilted and just tender.",
       "Season with salt to taste and serve."
-    ]
+    ],
+    "cookedWeightG": 139
   },
   {
     "id": "wn-garlic-butter-spinach",
@@ -1164,7 +1178,8 @@
       "Melt butter in a pan over medium heat; add minced garlic and cook 30 seconds until fragrant (don't let it brown).",
       "Add spinach in batches, tossing constantly until just wilted, about 2-3 minutes.",
       "Remove from heat, stir in a pinch of salt and the lemon juice, and serve immediately."
-    ]
+    ],
+    "cookedWeightG": 125
   },
   {
     "id": "sgmy-sayur-goreng",
@@ -1219,7 +1234,8 @@
       "Add carrot and green beans; stir-fry for 2-3 minutes.",
       "Add cabbage and toss for another 2-3 minutes until just tender-crisp.",
       "Season with salt to taste and serve immediately."
-    ]
+    ],
+    "cookedWeightG": 127
   },
   {
     "id": "jp-broccolini-gomaae",
@@ -1264,7 +1280,8 @@
       "Toss broccolini with the dressing just before serving."
     ],
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
-    "estimated": true
+    "estimated": true,
+    "cookedWeightG": 123
   },
   {
     "id": "med-vegetable-medley",
@@ -1325,7 +1342,8 @@
       "Add bell pepper and cook for 3-4 minutes until starting to soften.",
       "Add cherry tomatoes, oregano and rosemary; cook for another 3-4 minutes until tomatoes just start to blister.",
       "Finish with lemon juice and olives if using; serve warm."
-    ]
+    ],
+    "cookedWeightG": 116
   },
   {
     "id": "cn-garlic-broccoli-stirfry",
@@ -1395,7 +1413,8 @@
       "Heat cooking oil in a wok over high heat; add garlic and stir until fragrant.",
       "Add blanched broccoli, water, oyster sauce, soy sauce, Shaoxing wine and sugar; toss for 1-2 minutes.",
       "Drizzle with sesame oil and serve immediately."
-    ]
+    ],
+    "cookedWeightG": 169
   },
   {
     "id": "cn-tm7-broccoli-reverse-steam",
@@ -1440,7 +1459,8 @@
       "Add water; place broccoli florets in the Varoma dish and set Varoma on top.",
       "Cook 12 min/Varoma/speed 2.",
       "Season with salt and serve."
-    ]
+    ],
+    "cookedWeightG": 159
   },
   {
     "id": "in-broccoli-sabzi-light",
@@ -1511,7 +1531,8 @@
       "Add broccoli, turmeric and ground coriander; stir to coat.",
       "Cover and cook for 5-6 minutes, stirring occasionally, until broccoli is tender.",
       "Stir in shredded coconut and serve."
-    ]
+    ],
+    "cookedWeightG": 156
   },
   {
     "id": "wn-steamed-broccoli-parm",
@@ -1561,7 +1582,8 @@
       "Heat olive oil in a small pan over medium heat; add garlic and cook until fragrant, about 30 seconds.",
       "Toss steamed broccoli with the garlic oil, lemon zest and juice.",
       "Top with grated parmesan and serve."
-    ]
+    ],
+    "cookedWeightG": 132
   },
   {
     "id": "sm-pb-banana-cacao",
