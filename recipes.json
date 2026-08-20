@@ -89,7 +89,8 @@
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — light coconut milk recalculated to Kara Light UHT's actual figures (137 kcal/100ml, higher than the previous generic estimate).",
     "estimated": true,
     "imageCredit": "Illustrative photo from Rasa Malaysia (rasamalaysia.com) — not a photo of this exact recipe (original image was no longer loading)",
-    "cookedWeightG": 430
+    "cookedWeightG": 430,
+    "isVegetarian": false
   },
   {
     "id": "jp-teriyaki-salmon-bowl",
@@ -172,7 +173,8 @@
     "category": "main",
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — teriyaki sauce swapped for Niulife Organic Teriyaki Coconut Amino (the product actually used); sake calories use a generic cooking-sake reference (Takara's own nutrition data isn't published) — marked estimated.",
     "estimated": true,
-    "cookedWeightG": 462
+    "cookedWeightG": 462,
+    "isVegetarian": false
   },
   {
     "id": "tm7-teriyaki-chicken",
@@ -260,7 +262,8 @@
     "category": "main",
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used). Sodium field (1237mg) not recalculated — original per-ingredient sodium breakdown isn't available, but coconut aminos run meaningfully lower in sodium than regular soy sauce.",
     "estimated": true,
-    "cookedWeightG": 192
+    "cookedWeightG": 192,
+    "isVegetarian": false
   },
   {
     "id": "med-chicken",
@@ -350,7 +353,8 @@
       "Stir in spinach and feta. Return chicken to the skillet and warm through for 1-2 minutes until spinach wilts."
     ],
     "category": "main",
-    "cookedWeightG": 171
+    "cookedWeightG": 171,
+    "isVegetarian": false
   },
   {
     "id": "tm7-beef-curry",
@@ -460,7 +464,8 @@
       "Add garam masala and kasoori methi. Cook 1 min/Varoma/Speed 1 (Reverse Blade). Serve."
     ],
     "category": "main",
-    "cookedWeightG": 350
+    "cookedWeightG": 350,
+    "isVegetarian": false
   },
   {
     "id": "tm7-laksa-lightened",
@@ -560,7 +565,8 @@
       "Drain noodles, add tofu, pour the laksa over, stir gently, cover and rest 5 minutes."
     ],
     "category": "main",
-    "cookedWeightG": 474
+    "cookedWeightG": 474,
+    "isVegetarian": false
   },
   {
     "id": "sgmy-beef-ho-fun",
@@ -704,7 +710,8 @@
     ],
     "imageCredit": "Illustrative photo from Red House Spice (redhousespice.com) — not a photo of this exact recipe",
     "category": "main",
-    "cookedWeightG": 424
+    "cookedWeightG": 424,
+    "isVegetarian": false
   },
   {
     "id": "tm7-hainanese-chicken-rice",
@@ -812,7 +819,8 @@
     ],
     "imageCredit": "Illustrative photo from The Woks of Life (thewoksoflife.com) — not a photo of this exact recipe",
     "category": "main",
-    "cookedWeightG": 421
+    "cookedWeightG": 421,
+    "isVegetarian": false
   },
   {
     "id": "cn-garlic-bok-choy",
@@ -2558,5 +2566,1616 @@
       "Whisk vinegars, ketchup, mustard and pressed garlic together until combined.",
       "Store in a jar in the fridge; shake before using."
     ]
+  },
+  {
+    "id": "child-hainanese-chicken-rice",
+    "name": "Hainanese Chicken Rice (Kids)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "TM7",
+    "cookTime": 30,
+    "calories": 481,
+    "protein": 38,
+    "fat": 11.8,
+    "carbs": 42.6,
+    "estimated": true,
+    "image": "https://thewoksoflife.com/wp-content/uploads/2023/07/hainan-chicken-rice-7.jpg",
+    "source": "User submitted (Thermomix)",
+    "sourceUrl": "",
+    "timeNote": "Adapted from a whole-chicken TM7 recipe — switching to boneless skinless breast cuts the steam time from ~68 min down to ~30 min active. Marinate time is also shorter (15-30 min).",
+    "note": "Kids version of the adult Hainanese Chicken Rice — already mild with no chilli, so the only change is dropping the optional Chinese rice wine from the finishing sauce (it's stirred in raw, not cooked off, so it's out for a kids' recipe). Calories/portion were already right in the 475-500 kcal target, so no recalibration needed.",
+    "ingredients": [
+      {
+        "n": "Chicken breast, boneless & skinless",
+        "a": "300g (2 breasts)",
+        "k": 360
+      },
+      {
+        "n": "Salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Sesame oil (marinade)",
+        "a": "1 tsp",
+        "k": 41
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "3",
+        "k": 13
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "10g",
+        "k": 8
+      },
+      {
+        "n": "Spring onion",
+        "a": "2 stalks",
+        "k": 3
+      },
+      {
+        "n": "Shallots",
+        "a": "10g",
+        "k": 7
+      },
+      {
+        "n": "Pandan leaves, tied in a knot",
+        "a": "1",
+        "k": 0
+      },
+      {
+        "n": "Cooking oil",
+        "a": "10g",
+        "k": 88
+      },
+      {
+        "n": "Chicken stock",
+        "a": "350g",
+        "k": 53
+      },
+      {
+        "n": "Rice, rinsed",
+        "a": "100g",
+        "k": 365
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "1 tbsp",
+        "k": 15
+      },
+      {
+        "n": "Sugar",
+        "a": "¼ tsp",
+        "k": 4
+      },
+      {
+        "n": "Cucumber, sliced",
+        "a": "30g",
+        "k": 5
+      }
+    ],
+    "steps": [
+      "Marinate the chicken breasts with salt and sesame oil for 15-30 minutes.",
+      "Place shallots, garlic, ginger, pandan leaves and cooking oil in the mixing bowl. Sauté 8 min/120°C/speed 1. Transfer to a bowl and set aside.",
+      "Place chicken stock in the mixing bowl. Insert the simmering basket, add rice and the reserved aromatic oil. Place the marinated chicken breasts in the Varoma dish and position on the lid; steam 15 min/Varoma/speed 3.",
+      "Check chicken is cooked through (internal temp 75°C+); if needed, steam a further 2-3 minutes. Let stand 5 minutes.",
+      "Meanwhile mix a little reserved stock with the coconut aminos and sugar in a bowl.",
+      "Slice the chicken, drizzle with the sauce, and serve with the rice and sliced cucumber."
+    ],
+    "imageCredit": "Illustrative photo from The Woks of Life (thewoksoflife.com) — not a photo of this exact recipe",
+    "category": "child"
+  },
+  {
+    "id": "child-teriyaki-chicken",
+    "name": "Teriyaki Chicken (Kids)",
+    "cuisine": "Japanese",
+    "type": "TM7",
+    "cookTime": 21,
+    "calories": 487,
+    "protein": 27,
+    "fat": 26,
+    "carbs": 16.7,
+    "sugar": 10.5,
+    "sodium": 1299,
+    "estimated": true,
+    "image": "https://www.thermo.kitchen/wp-content/uploads/2019/02/Teriyaki-Chicken-2-LR.jpg",
+    "source": "ThermoKitchen",
+    "sourceUrl": "https://www.thermo.kitchen/20min-teriyaki-chicken-recipe-thermomix/",
+    "note": "Kids version of the adult Teriyaki Chicken — already mild with no chilli, so no de-spicing needed. The whole recipe is scaled up ~5% (same ratios, just a bit more of everything) to bring the per-person calories from 408 kcal up into the 475-500 kcal target.",
+    "ingredients": [
+      {
+        "n": "Garlic",
+        "a": "8g",
+        "k": 12
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "5g",
+        "k": 4
+      },
+      {
+        "n": "Mirin",
+        "a": "63g",
+        "k": 148
+      },
+      {
+        "n": "Rice wine vinegar",
+        "a": "26g",
+        "k": 6
+      },
+      {
+        "n": "Coconut aminos",
+        "a": "42g",
+        "k": 42
+      },
+      {
+        "n": "Brown sugar",
+        "a": "21g",
+        "k": 80
+      },
+      {
+        "n": "Chicken thigh fillets",
+        "a": "315g, sliced",
+        "k": 658
+      },
+      {
+        "n": "Cornflour",
+        "a": "1 tsp",
+        "k": 13
+      },
+      {
+        "n": "Water",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Long green shallot",
+        "a": "½, sliced",
+        "k": 2
+      },
+      {
+        "n": "Sesame seeds",
+        "a": "½ tsp",
+        "k": 8
+      }
+    ],
+    "steps": [
+      "Place garlic and ginger in the TM bowl. Chop 3 sec/Speed 9. Scrape down bowl.",
+      "Add mirin, vinegar, coconut aminos, brown sugar and chicken. Cook 14 min/Varoma/Reverse+Soft Spoon (MC out).",
+      "Meanwhile mix cornflour and water into a paste.",
+      "Add the cornflour paste. Cook 4 min/100°C/Reverse+Soft Spoon (MC out).",
+      "Garnish with shallot and sesame seeds."
+    ],
+    "category": "child"
+  },
+  {
+    "id": "child-teriyaki-salmon-bowl",
+    "name": "Teriyaki Salmon Rice Bowl (Kids)",
+    "cuisine": "Japanese",
+    "type": "regular",
+    "cookTime": 15,
+    "calories": 490,
+    "protein": 26,
+    "fat": 9,
+    "carbs": 52,
+    "fiber": 1,
+    "sugar": 10,
+    "estimated": true,
+    "image": "https://www.chopstickchronicles.com/wp-content/uploads/2016/02/Teriyaki-salmon-bowls-update-31.jpg",
+    "source": "Chopstick Chronicles",
+    "sourceUrl": "https://www.chopstickchronicles.com/teriyaki-salmon-rice-bowls/",
+    "note": "Kids version of the adult Teriyaki Salmon Rice Bowl — already mild, so no de-spicing needed. The adult portion's rice (585g between 2, ~292g each) was oversized for a kid's bowl and pushed calories to 581; trimmed to 320g total (160g each, still a generous bowl) to bring per-person calories down into the 475-500 kcal target. Sake is cooked off during pan-frying so it's kept, same as any teriyaki dish.",
+    "ingredients": [
+      {
+        "n": "Cooked rice",
+        "a": "320g",
+        "k": 320
+      },
+      {
+        "n": "Salmon fillet",
+        "a": "200g",
+        "k": 416
+      },
+      {
+        "n": "Sake",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Teriyaki coconut amino",
+        "a": "60ml",
+        "k": 120
+      },
+      {
+        "n": "Cabbage or vegetables",
+        "a": "1 handful",
+        "k": 10
+      },
+      {
+        "n": "Radishes",
+        "a": "2-3",
+        "k": 4
+      },
+      {
+        "n": "Edamame",
+        "a": "40g",
+        "k": 47
+      },
+      {
+        "n": "Sesame seeds",
+        "a": "1 tsp",
+        "k": 17
+      },
+      {
+        "n": "Scallions, chopped",
+        "a": "1 tsp",
+        "k": 1
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tsp",
+        "k": 40
+      }
+    ],
+    "steps": [
+      "Sprinkle sake over the salmon fillet; set aside.",
+      "Thinly shred cabbage and radish; soak in water.",
+      "Pat salmon dry, removing excess sake and moisture.",
+      "Heat olive oil in a pan over medium heat; pan-fry salmon until cooked through.",
+      "Remove salmon and cut into pieces. Wipe the pan, then simmer the teriyaki sauce.",
+      "Return salmon to the pan and coat in the teriyaki sauce.",
+      "Divide rice between bowls; top with salmon, vegetables, edamame and garnish."
+    ],
+    "category": "child"
+  },
+  {
+    "id": "child-beef-ho-fun",
+    "name": "Beef Ho Fun Noodles (Kids)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 20,
+    "calories": 488,
+    "protein": 32,
+    "fat": 22,
+    "carbs": 37.7,
+    "estimated": true,
+    "image": "https://redhousespice.com/wp-content/uploads/2019/08/Beef-chow-fun-by-Red-House-Spice-a-scaled.jpg",
+    "source": "User submitted",
+    "sourceUrl": "",
+    "timeNote": "No cook time was given with this recipe — 20 min is an estimate of active stir-fry time, not counting the 15 min passive marinate.",
+    "note": "Kids version of the adult Beef Ho Fun Noodles. De-spiced by dropping the chili oil/chili flakes garnish (already optional/to-taste in the adult recipe) and the splash of Shaoxing wine from the sauce. The rest of the recipe is scaled down ~11% (beef, noodles, aromatics, broccoli) to bring per-person calories from 525 down into the 475-500 kcal target.",
+    "ingredients": [
+      {
+        "n": "Lean flank steak, thinly sliced (marinade)",
+        "a": "220g",
+        "k": 427
+      },
+      {
+        "n": "Sesame oil (marinade)",
+        "a": "1 tsp",
+        "k": 36
+      },
+      {
+        "n": "Oyster sauce (marinade)",
+        "a": "1½ tsp",
+        "k": 4
+      },
+      {
+        "n": "Coconut aminos (marinade)",
+        "a": "1½ tsp",
+        "k": 7
+      },
+      {
+        "n": "White pepper (marinade)",
+        "a": "¼ tsp",
+        "k": 1
+      },
+      {
+        "n": "Cornstarch (marinade)",
+        "a": "1½ tsp",
+        "k": 13
+      },
+      {
+        "n": "Baking soda (marinade)",
+        "a": "½ tsp",
+        "k": 0
+      },
+      {
+        "n": "Sesame oil (sauce)",
+        "a": "½ tsp",
+        "k": 18
+      },
+      {
+        "n": "Oyster sauce (sauce)",
+        "a": "1 tbsp",
+        "k": 10
+      },
+      {
+        "n": "Coconut aminos (sauce)",
+        "a": "1½ tsp",
+        "k": 7
+      },
+      {
+        "n": "Dark soy sauce (sauce)",
+        "a": "1 tbsp",
+        "k": 22
+      },
+      {
+        "n": "Coconut sugar (sauce)",
+        "a": "1½ tsp",
+        "k": 20
+      },
+      {
+        "n": "Water (sauce)",
+        "a": "2 tbsp",
+        "k": 0
+      },
+      {
+        "n": "Neutral oil (stir fry)",
+        "a": "1½ tsp",
+        "k": 55
+      },
+      {
+        "n": "Ginger paste",
+        "a": "1½ tsp",
+        "k": 6
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "2-3 cloves",
+        "k": 12
+      },
+      {
+        "n": "Fresh rice noodles (or 100g dried)",
+        "a": "265g",
+        "k": 291
+      },
+      {
+        "n": "Chinese broccoli, chopped (stems & leaves separated)",
+        "a": "160g",
+        "k": 36
+      },
+      {
+        "n": "Bean sprouts",
+        "a": "45g",
+        "k": 6
+      },
+      {
+        "n": "Spring onions, sliced",
+        "a": "22g",
+        "k": 4
+      }
+    ],
+    "steps": [
+      "Combine all marinade ingredients with the beef; marinate 15 minutes.",
+      "Mix the sauce ingredients in a bowl. Separate fresh noodles gently, or cook dried noodles per packet directions.",
+      "Heat a pan or wok over high heat. Sear beef in batches for 2-3 minutes until browned and slightly charred, leaving it untouched for about 1 minute before flipping. Remove from pan.",
+      "Add oil, then garlic and ginger paste. Stir-fry 1-2 minutes until fragrant. Add Chinese broccoli stems and cook 2 minutes, then add the leaves and cook 1-2 minutes until wilted. Remove from pan.",
+      "Add noodles to the hot pan and let sit undisturbed for about 30 seconds to lightly char. Toss gently so they don't break apart. Pour in the sauce and cook 1 minute until evenly coated.",
+      "Return beef and vegetables to the pan and toss 1-2 minutes until glossy and combined. Add bean sprouts and spring onions during the last 30 seconds.",
+      "Serve immediately, hot."
+    ],
+    "imageCredit": "Illustrative photo from Red House Spice (redhousespice.com) — not a photo of this exact recipe",
+    "category": "child"
+  },
+  {
+    "id": "child-beef-curry",
+    "name": "Quick Beef Curry (Kids)",
+    "cuisine": "Indian",
+    "type": "TM7",
+    "cookTime": 35,
+    "calories": 495,
+    "protein": 48,
+    "fat": 26,
+    "carbs": 21,
+    "fiber": 3,
+    "sugar": 12,
+    "satfat": 7,
+    "cholesterol": 133,
+    "sodium": 370,
+    "estimated": true,
+    "image": "https://www.thermo.kitchen/wp-content/uploads/2017/12/Thermomix-Beef-Curry-500x334.jpg",
+    "source": "ThermoKitchen",
+    "sourceUrl": "https://www.thermo.kitchen/quick-thermomix-beef-curry-low-calorie-meal/",
+    "timeNote": "Cook time is 30 min, 35 min total with prep — a touch over the 30-min cap if you count prep.",
+    "note": "Kids version of the adult Quick Beef Curry. De-spiced by dropping the fresh chilli entirely and halving the garam masala for a gentler bite — the cardamom, cumin, coriander and turmeric are kept since they're warming spices, not heat. Calories land right in the 475-500 kcal target without any other portion changes.",
+    "ingredients": [
+      {
+        "n": "Green cardamom pods",
+        "a": "1-2",
+        "k": 2
+      },
+      {
+        "n": "Cumin seeds",
+        "a": "1 tsp",
+        "k": 8
+      },
+      {
+        "n": "Coriander seeds",
+        "a": "1 tsp",
+        "k": 5
+      },
+      {
+        "n": "Oil",
+        "a": "20g",
+        "k": 177
+      },
+      {
+        "n": "Onion, quartered",
+        "a": "100g",
+        "k": 40
+      },
+      {
+        "n": "Garlic",
+        "a": "10g",
+        "k": 15
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "10g",
+        "k": 8
+      },
+      {
+        "n": "Ground turmeric",
+        "a": "½ tsp",
+        "k": 4
+      },
+      {
+        "n": "Beef stock",
+        "a": "100g",
+        "k": 5
+      },
+      {
+        "n": "Tomato paste",
+        "a": "40g",
+        "k": 34
+      },
+      {
+        "n": "Natural yoghurt",
+        "a": "250g",
+        "k": 149
+      },
+      {
+        "n": "Diced beef",
+        "a": "300g",
+        "k": 540
+      },
+      {
+        "n": "Garam masala",
+        "a": "¼ tsp",
+        "k": 2
+      },
+      {
+        "n": "Kasoori methi (optional)",
+        "a": "1 tsp",
+        "k": 1
+      }
+    ],
+    "steps": [
+      "Add cumin seeds, coriander seeds and cardamom pods to the TM bowl. Roast 5 min/Varoma/Speed 1 (MC out).",
+      "Mill 1 min/Speed 10.",
+      "Scrape down bowl. Add onion, ginger, garlic. Chop 10 sec/Speed 5.",
+      "Scrape down bowl. Add oil and turmeric. Sauté 5 min/Varoma/Speed 2 (MC out).",
+      "Add stock, tomato paste, yoghurt and beef. Cook 25 min/Varoma/Speed 1 (Reverse Blade).",
+      "Add garam masala and kasoori methi. Cook 1 min/Varoma/Speed 1 (Reverse Blade). Serve."
+    ],
+    "category": "child"
+  },
+  {
+    "id": "sgmy-kerabu-taugeh",
+    "name": "Kerabu Taugeh (Bean Sprout Salad)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 8,
+    "calories": 177,
+    "protein": 4,
+    "fat": 11,
+    "carbs": 13,
+    "estimated": true,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAdLM4M_F57JA7Mfg1qwXfpB6vYMoqmDoiFdspufSOduG6_GeyAxUPX0v4ZZTtRUhEQVXhCWE7Zhb19BxTro8RkbaRrsJgX6fUTL5bApWvzpiJbM3RSTbcVaKPX7BnaZJ93JQcLhyphenhyphenD0q1esnj81PZIO5KiOGCQvDzJQdFX7mnneY2BNjsnIJW1r0zuc3w/s601/kerabu-taugeh-malay-bean-sprout-salad.jpeg",
+    "source": "Nava K",
+    "sourceUrl": "https://www.nava-k.com/2014/09/kerabu-taugeh-bean-sprouts-salad.html",
+    "note": "Source publishes no nutrition data — calories/macros are my own estimate from the ingredient list. Doubled from the as-written recipe to make 2 snack-sized servings.",
+    "ingredients": [
+      {
+        "n": "Bean sprouts, blanched",
+        "a": "400g",
+        "k": 124
+      },
+      {
+        "n": "Kerisik (toasted pounded coconut)",
+        "a": "2 tbsp",
+        "k": 106
+      },
+      {
+        "n": "Shallots, thinly sliced",
+        "a": "10",
+        "k": 72
+      },
+      {
+        "n": "Red chilies, thinly sliced",
+        "a": "4",
+        "k": 8
+      },
+      {
+        "n": "Spring onion, thinly sliced",
+        "a": "4 sprigs",
+        "k": 4
+      },
+      {
+        "n": "Coriander leaves, thinly sliced",
+        "a": "4 sprigs",
+        "k": 2
+      },
+      {
+        "n": "Lime juice",
+        "a": "2 tbsp",
+        "k": 8
+      },
+      {
+        "n": "Palm sugar, pounded",
+        "a": "2 pinches",
+        "k": 30
+      }
+    ],
+    "steps": [
+      "Combine all ingredients in a bowl.",
+      "Toss and serve immediately."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 274
+  },
+  {
+    "id": "jp-edamame",
+    "name": "Restaurant-Style Edamame",
+    "cuisine": "Japanese",
+    "type": "regular",
+    "cookTime": 5,
+    "calories": 122,
+    "protein": 9,
+    "fat": 3,
+    "carbs": 14,
+    "fiber": 4,
+    "sodium": 1163,
+    "image": "https://www.clairekcreations.com/wp-content/uploads/2024/03/How-To-Make-Japanese-Restaurant-Edamame-1.jpg",
+    "source": "Claire K Creations",
+    "sourceUrl": "https://www.clairekcreations.com/edamame-just-like-the-japanese-restaurants/",
+    "ingredients": [
+      {
+        "n": "Frozen edamame (in pod)",
+        "a": "200g",
+        "k": 244
+      },
+      {
+        "n": "Sea salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Water",
+        "a": "for boiling",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Bring a pot of salted water to a rolling boil, filling the pot roughly three-quarters full.",
+      "Add the frozen edamame and cook for 5 minutes.",
+      "Strain the edamame and sprinkle with salt.",
+      "Serve warm with extra salt if desired (only eat the beans inside the pods)."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 94
+  },
+  {
+    "id": "jp-shio-onigiri",
+    "name": "Simple Shio Onigiri",
+    "cuisine": "Japanese",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 157,
+    "protein": 3,
+    "fat": 0.3,
+    "carbs": 33,
+    "estimated": true,
+    "timeNote": "Assumes rice is already cooked and cooled ahead of time (standard for batch prep) — this is just the shaping/wrapping time.",
+    "image": "https://sudachirecipes.com/wp-content/uploads/2022/08/salted-onigiri-thumbnail-550x550.jpg",
+    "source": "Sudachi Recipes",
+    "sourceUrl": "https://sudachirecipes.com/salted-onigiri-recipe/",
+    "note": "Scaled to a 2-rice-ball portion (one per person) from the source's 6-ball batch. Protein/fat/carbs are my estimate — source only publishes calories per ball.",
+    "ingredients": [
+      {
+        "n": "Cooked Japanese short-grain rice",
+        "a": "235g",
+        "k": 309
+      },
+      {
+        "n": "Fine sea salt",
+        "a": "~1/2 tsp",
+        "k": 0
+      },
+      {
+        "n": "Roasted seaweed (nori), cut into strips",
+        "a": "1 sheet",
+        "k": 5
+      },
+      {
+        "n": "Ice water (for wetting hands)",
+        "a": "as needed",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Set up a bowl of ice water, the salt, and the cooked rice.",
+      "Wash hands thoroughly and dip fingertips in the ice-cold water for 15-20 seconds.",
+      "Rub a pinch of salt over both palms.",
+      "Take a handful of warm rice and shape using the \"press and turn\" technique into a triangle. Repeat for the second ball.",
+      "Wrap each onigiri with a strip of nori.",
+      "Eat immediately, or pack in a lunch box with an ice pack."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 111
+  },
+  {
+    "id": "med-cucumber-bites",
+    "name": "Cucumber Bites (Whipped Feta)",
+    "cuisine": "Mediterranean",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 156,
+    "protein": 10,
+    "fat": 26,
+    "carbs": 14,
+    "sodium": 650,
+    "image": "https://feelgoodfoodie.net/wp-content/uploads/2024/03/Cucumber-Canapes-06.jpg",
+    "source": "FeelGoodFoodie",
+    "sourceUrl": "https://feelgoodfoodie.net/recipe/cucumber-bites/",
+    "note": "Scaled to a 2-serving (1/4-batch) portion from the source's 8-serving recipe.",
+    "ingredients": [
+      {
+        "n": "Feta cheese, crumbled",
+        "a": "60g",
+        "k": 155
+      },
+      {
+        "n": "Lemon juice & zest",
+        "a": "1/8 lemon",
+        "k": 2
+      },
+      {
+        "n": "Honey",
+        "a": "1 tsp",
+        "k": 21
+      },
+      {
+        "n": "Fresh dill",
+        "a": "a pinch",
+        "k": 1
+      },
+      {
+        "n": "Black pepper",
+        "a": "a dash",
+        "k": 0
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tbsp",
+        "k": 119
+      },
+      {
+        "n": "Cucumber, sliced into rounds",
+        "a": "1/2 large",
+        "k": 14
+      }
+    ],
+    "steps": [
+      "In a small bowl or food processor, combine feta, lemon juice and zest, honey, and dill; blend until smooth (a fork-mash works fine for a small batch).",
+      "Stream in olive oil while mixing until completely smooth.",
+      "Spoon a dollop of whipped feta onto each cucumber slice.",
+      "Garnish with fresh dill and pepper; serve."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 108
+  },
+  {
+    "id": "cn-cold-tossed-tofu",
+    "name": "Cold-Tossed Tofu (凉拌豆腐)",
+    "cuisine": "Chinese",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 123,
+    "protein": 10,
+    "fat": 7,
+    "carbs": 5,
+    "sodium": 340,
+    "image": "https://thewoksoflife.com/wp-content/uploads/2025/07/liangban-doufu-cold-tossed-tofu-5.jpg",
+    "source": "The Woks of Life",
+    "sourceUrl": "https://thewoksoflife.com/cold-tossed-tofu/",
+    "note": "Scaled to a 2-serving (half-batch) portion from the source's 4-serving recipe. Best assembled fresh — refrigerate up to 1 day before the onion/cilantro start releasing water and softening the texture.",
+    "ingredients": [
+      {
+        "n": "Firm tofu, cubed",
+        "a": "200g",
+        "k": 159
+      },
+      {
+        "n": "Light soy sauce",
+        "a": "2 tsp",
+        "k": 6
+      },
+      {
+        "n": "Chili oil (optional)",
+        "a": "1/2 tsp",
+        "k": 20
+      },
+      {
+        "n": "Sesame oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Sugar",
+        "a": "1/4 tsp",
+        "k": 4
+      },
+      {
+        "n": "White pepper powder",
+        "a": "1/8 tsp",
+        "k": 1
+      },
+      {
+        "n": "Garlic, minced",
+        "a": "1 small clove",
+        "k": 5
+      },
+      {
+        "n": "Red onion, julienned",
+        "a": "1/4 small",
+        "k": 10
+      },
+      {
+        "n": "Cilantro, chopped",
+        "a": "2 tbsp",
+        "k": 1
+      }
+    ],
+    "steps": [
+      "In a bowl, combine minced garlic, soy sauce, chili oil (if using), sesame oil, sugar and white pepper. Mix until sugar dissolves.",
+      "Add cubed tofu, red onion and cilantro. Gently toss until combined.",
+      "Serve immediately, or refrigerate up to 1 day before serving."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 128
+  },
+  {
+    "id": "cn-five-spice-edamame",
+    "name": "Five-Spice Edamame (五香毛豆)",
+    "cuisine": "Chinese",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 143,
+    "protein": 11,
+    "fat": 4,
+    "carbs": 16,
+    "timeNote": "3 min prep + 7 min active cook; there's also a 4hr-to-overnight passive soak in the spiced brine before serving — plan ahead.",
+    "image": "https://redhousespice.com/wp-content/uploads/2024/05/Five-Spice-Edamame-3.jpg",
+    "source": "Red House Spice",
+    "sourceUrl": "https://redhousespice.com/five-spice-edamame/",
+    "note": "Scaled to a 2-serving (half-batch) portion from the source's 4-serving recipe. Source notes its nutrition figures are auto-calculated and approximate.",
+    "estimated": true,
+    "ingredients": [
+      {
+        "n": "Edamame (fresh or frozen, in pod)",
+        "a": "227g",
+        "k": 282
+      },
+      {
+        "n": "Salt",
+        "a": "1.5 tsp",
+        "k": 0
+      },
+      {
+        "n": "Star anise",
+        "a": "1/2",
+        "k": 1
+      },
+      {
+        "n": "Chinese cinnamon",
+        "a": "1/2 piece",
+        "k": 1
+      },
+      {
+        "n": "Sichuan pepper",
+        "a": "1/2 tsp",
+        "k": 1
+      },
+      {
+        "n": "Bay leaf",
+        "a": "1",
+        "k": 0
+      },
+      {
+        "n": "Dried chilies",
+        "a": "2-3",
+        "k": 1
+      },
+      {
+        "n": "Ginger, sliced",
+        "a": "3 slices",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Trim the stem ends of the edamame pods with scissors so the flavor can penetrate.",
+      "Bring water to a boil, add edamame and salt. Once boiling resumes, simmer 2 minutes.",
+      "Transfer edamame to cold water with a slotted spoon; keep the hot cooking water.",
+      "Add ginger, star anise, cinnamon, Sichuan pepper, bay leaf and chilies to the hot water. Simmer 5 minutes on low heat, then cool 20 minutes.",
+      "Drain the edamame and pour the spiced water over them. Soak 4 hours, or overnight, before serving."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 109
+  },
+  {
+    "id": "in-corn-chaat",
+    "name": "Corn Chaat",
+    "cuisine": "Indian",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 197,
+    "protein": 7,
+    "fat": 6,
+    "carbs": 37,
+    "fiber": 10,
+    "timeNote": "Uses the frozen-corn sauté method (not the boiled-fresh-corn version) to stay at ~8-10 min active — sautéing thawed corn in butter for 2-3 min instead of boiling.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2024/05/corn-chaat-recipe.jpg",
+    "source": "Swasthi's Recipes (Indian Healthy Recipes)",
+    "sourceUrl": "https://www.indianhealthyrecipes.com/corn-chaat/",
+    "ingredients": [
+      {
+        "n": "Sweet corn kernels (frozen, thawed)",
+        "a": "270g",
+        "k": 185
+      },
+      {
+        "n": "Onion, finely chopped",
+        "a": "2 tbsp",
+        "k": 8
+      },
+      {
+        "n": "Tomato, finely chopped",
+        "a": "3-4 tbsp",
+        "k": 7
+      },
+      {
+        "n": "Green chili, finely chopped (optional)",
+        "a": "1",
+        "k": 3
+      },
+      {
+        "n": "Coriander leaves, chopped",
+        "a": "2 tbsp",
+        "k": 2
+      },
+      {
+        "n": "Chaat masala",
+        "a": "1/2-3/4 tsp",
+        "k": 5
+      },
+      {
+        "n": "Cumin powder",
+        "a": "1/4 tsp",
+        "k": 3
+      },
+      {
+        "n": "Red chili powder (optional)",
+        "a": "1/4 tsp",
+        "k": 2
+      },
+      {
+        "n": "Lemon juice (optional)",
+        "a": "1 tbsp",
+        "k": 4
+      },
+      {
+        "n": "Salt",
+        "a": "1/4-1/2 tsp",
+        "k": 0
+      },
+      {
+        "n": "Butter",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Sev or roasted peanuts (topping)",
+        "a": "4 tbsp",
+        "k": 135
+      }
+    ],
+    "steps": [
+      "Sauté thawed corn kernels in butter over medium heat for 2-3 minutes until just tender.",
+      "Cool slightly, then mix in chili powder, cumin powder, chaat masala and salt.",
+      "Fold in onion, tomato, green chili, lemon juice and coriander leaves.",
+      "Transfer to bowls and top with sev, farsan or roasted peanuts."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 218
+  },
+  {
+    "id": "in-kala-chana-chaat",
+    "name": "Kala Chana Chaat",
+    "cuisine": "Indian",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 175,
+    "protein": 8,
+    "fat": 2,
+    "carbs": 30,
+    "sodium": 231,
+    "timeNote": "Only the daily-assembly step (chopping + tossing) is ≤10 min — the chickpeas need an overnight soak plus a 25-40 min pressure-cook as a separate batch step done once ahead of time.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/03/Kala-Chana-Chaat.jpg",
+    "source": "Cook With Manali",
+    "sourceUrl": "https://www.cookwithmanali.com/kala-chana-chaat/",
+    "note": "Scaled to a 2-serving (half-batch) portion from the source's 4-serving recipe.",
+    "ingredients": [
+      {
+        "n": "Dried black chickpeas (kala chana)",
+        "a": "100g",
+        "k": 335
+      },
+      {
+        "n": "Tomato, chopped",
+        "a": "2-3 tbsp",
+        "k": 5
+      },
+      {
+        "n": "Onion, chopped",
+        "a": "2-3 tbsp",
+        "k": 4
+      },
+      {
+        "n": "Green chili, chopped",
+        "a": "1",
+        "k": 1
+      },
+      {
+        "n": "Cilantro, chopped",
+        "a": "1 tbsp",
+        "k": 1
+      },
+      {
+        "n": "Mint, chopped",
+        "a": "1 tbsp",
+        "k": 1
+      },
+      {
+        "n": "Chaat masala",
+        "a": "1/2 tsp",
+        "k": 2
+      },
+      {
+        "n": "Kala namak (black salt)",
+        "a": "1/8 tsp",
+        "k": 0
+      },
+      {
+        "n": "Cumin powder",
+        "a": "1/8 tsp",
+        "k": 1
+      },
+      {
+        "n": "Amchur (dried mango powder)",
+        "a": "1/8 tsp",
+        "k": 0
+      },
+      {
+        "n": "Red chili powder",
+        "a": "1/8 tsp",
+        "k": 0
+      },
+      {
+        "n": "Lime juice",
+        "a": "juice of 1/2 lime",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Soak dried black chickpeas overnight (or at least 4 hours) in water; drain and rinse.",
+      "Pressure-cook (Instant Pot: high pressure 25 min if soaked overnight; stovetop: 7-8 whistles), natural release; drain.",
+      "Add the cooked chickpeas to a bowl with the chopped tomato, onion, cilantro and mint.",
+      "Mix in chaat masala, kala namak, cumin powder, amchur and red chili powder.",
+      "Toss, squeeze over the lime juice, and serve chilled."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 106
+  },
+  {
+    "id": "wn-energy-balls",
+    "name": "No Bake Energy Balls",
+    "cuisine": "Western",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 112,
+    "protein": 3,
+    "fat": 6,
+    "carbs": 12,
+    "fiber": 1.5,
+    "estimated": true,
+    "timeNote": "10 min active mixing/rolling; there's also a 30 min passive fridge chill before rolling (no hands-on work during that time).",
+    "image": "https://www.eatingbirdfood.com/wp-content/uploads/2025/01/no-bake-energy-balls-hero-new.jpg",
+    "source": "Eating Bird Food",
+    "sourceUrl": "https://www.eatingbirdfood.com/no-bake-energy-balls/",
+    "note": "Scaled to a 2-ball portion (one per person) from the source's 16-ball batch. Protein/fat/carbs are my estimate — source only publishes calories per ball.",
+    "ingredients": [
+      {
+        "n": "Old-fashioned rolled oats",
+        "a": "2 tbsp",
+        "k": 20
+      },
+      {
+        "n": "Natural peanut butter",
+        "a": "1 tbsp",
+        "k": 116
+      },
+      {
+        "n": "Honey",
+        "a": "1.5 tsp",
+        "k": 32
+      },
+      {
+        "n": "Unsweetened shredded coconut",
+        "a": "1.5 tsp",
+        "k": 8
+      },
+      {
+        "n": "Chocolate chips",
+        "a": "1.5 tsp",
+        "k": 35
+      },
+      {
+        "n": "Ground flaxseed",
+        "a": "3/4 tsp",
+        "k": 13
+      },
+      {
+        "n": "Vanilla extract",
+        "a": "1/8 tsp",
+        "k": 0
+      },
+      {
+        "n": "Sea salt",
+        "a": "pinch",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Combine all ingredients in a bowl and stir until well blended.",
+      "Refrigerate the mixture for 30 minutes.",
+      "Roll into 2 balls (about 1 tbsp each).",
+      "Store in an airtight container in the refrigerator or freezer."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 36
+  },
+  {
+    "id": "wn-smoked-salmon-bites",
+    "name": "Smoked Salmon Cucumber Bites",
+    "cuisine": "Western",
+    "type": "regular",
+    "cookTime": 5,
+    "calories": 132,
+    "protein": 10,
+    "fat": 10,
+    "carbs": 2,
+    "estimated": true,
+    "image": "https://www.deliciousmeetshealthy.com/wp-content/uploads/2020/02/Smoked-Salmon-Cucumber-Bites-4.jpg",
+    "source": "Delicious Meets Healthy",
+    "sourceUrl": "https://www.deliciousmeetshealthy.com/smoked-salmon-cucumber-bites/",
+    "note": "The only non-vegetarian Snack (pescatarian — contains smoked salmon). Source publishes 22 kcal/bite; a 6-bite portion (~132 kcal) is defined as 1 serving here to land in the 100-200 kcal snack target. Protein/fat/carbs are my estimate — source only publishes calories per bite.",
+    "ingredients": [
+      {
+        "n": "Cream cheese",
+        "a": "42g",
+        "k": 145
+      },
+      {
+        "n": "Lemon juice",
+        "a": "1/3 tsp",
+        "k": 0
+      },
+      {
+        "n": "Chives, chopped",
+        "a": "1 tbsp",
+        "k": 1
+      },
+      {
+        "n": "Garlic, finely chopped",
+        "a": "1 small clove",
+        "k": 4
+      },
+      {
+        "n": "Salt & pepper",
+        "a": "pinch each",
+        "k": 0
+      },
+      {
+        "n": "English cucumber, sliced into rounds",
+        "a": "1/3 (medium)",
+        "k": 14
+      },
+      {
+        "n": "Smoked salmon",
+        "a": "85g",
+        "k": 100
+      }
+    ],
+    "steps": [
+      "Whip cream cheese, lemon juice, garlic, half the chives, salt and pepper together until smooth.",
+      "Spread onto cucumber rounds; top each with a piece of smoked salmon.",
+      "Garnish with remaining chives, plus extra salt and pepper.",
+      "Refrigerate leftovers, covered, and use within a couple of days."
+    ],
+    "category": "snack",
+    "isVegetarian": false,
+    "cookedWeightG": 112
+  },
+  {
+    "id": "sgmy-otak-otak",
+    "name": "Otak-Otak (Nyonya Fish Cake)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 230,
+    "protein": 17,
+    "fat": 15,
+    "carbs": 5,
+    "estimated": true,
+    "timeNote": "~10 min active (blending, wrapping) + ~10 min passive steaming.",
+    "image": "https://kitchenmisadventures.com/wp-content/uploads/2023/05/otak18.jpg",
+    "source": "Kitchen (Mis)Adventures",
+    "sourceUrl": "https://kitchenmisadventures.com/2018/07/28/otak-otak-nyonya-fish-cake/",
+    "note": "Source publishes no nutrition data — calories are my estimate, with real uncertainty (~185-260 kcal/serving) depending on cooking method and how much oil is used. Steaming (the method used here) keeps it toward the lower/middle of that range. Scaled to a 2-serving portion from the source's 6-serving batch.",
+    "ingredients": [
+      {
+        "n": "Mackerel, skinned & boned",
+        "a": "100g",
+        "k": 205
+      },
+      {
+        "n": "Coconut milk",
+        "a": "72g",
+        "k": 165
+      },
+      {
+        "n": "Red curry paste",
+        "a": "33g",
+        "k": 35
+      },
+      {
+        "n": "Cornstarch (optional)",
+        "a": "1/2 tbsp",
+        "k": 15
+      },
+      {
+        "n": "Oil (for pan-frying, optional)",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Banana leaves + toothpicks",
+        "a": "as needed",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Remove skin and bones from mackerel; set the meat aside.",
+      "Combine mackerel, coconut milk, red curry paste, cornstarch and oil in a food processor; blend until smooth.",
+      "Clean banana leaves and cut to size. Place spoonfuls of the paste on the dull side of the leaf; wrap and secure with toothpicks.",
+      "Steam over boiling water for about 10 minutes until set (or grill/bake — steaming is the most hands-off option)."
+    ],
+    "category": "snack",
+    "isVegetarian": false,
+    "cookedWeightG": 97
+  },
+  {
+    "id": "sgmy-kacang-rebus",
+    "name": "Kacang Rebus (Boiled Peanuts)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 330,
+    "protein": 15,
+    "fat": 27,
+    "carbs": 12,
+    "estimated": true,
+    "timeNote": "~5-10 min active (rinsing, assembling, occasional stirring) + ~25 min passive simmer/soak.",
+    "image": "https://indiancaloriestorage.blob.core.windows.net/food-images-public/foods/malaysia/kacang-rebus-6d104b48_v1/card.png",
+    "source": "MalaysianCalorie.com",
+    "sourceUrl": "https://malaysiancalorie.com/malaysia/foods/lunch/kacang-rebus/recipes/healthy-kacang-rebus",
+    "note": "The source's own published figure (90 kcal/100g) looks inconsistent with USDA data for boiled peanuts (~318 kcal/100g) — used the USDA-based figure instead, which is more defensible. Portioned at 110g shelled peanuts per person to land at the top of the hearty band.",
+    "ingredients": [
+      {
+        "n": "Peanuts, shelled & boiled",
+        "a": "220g",
+        "k": 660
+      },
+      {
+        "n": "Pandan leaves, tied in a knot",
+        "a": "2",
+        "k": 0
+      },
+      {
+        "n": "Lemongrass, bruised",
+        "a": "1 stalk",
+        "k": 0
+      },
+      {
+        "n": "Sea salt",
+        "a": "2 tsp",
+        "k": 0
+      },
+      {
+        "n": "Garlic, smashed",
+        "a": "2 cloves",
+        "k": 0
+      },
+      {
+        "n": "Bay leaf",
+        "a": "1",
+        "k": 0
+      },
+      {
+        "n": "Turmeric powder",
+        "a": "1/4 tsp",
+        "k": 0
+      },
+      {
+        "n": "Dried chili (optional)",
+        "a": "1",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Rinse raw peanuts (in shell) thoroughly; discard any damaged ones.",
+      "Bring water to a boil in a large pot.",
+      "Add peanuts with pandan leaves, lemongrass, salt, garlic, bay leaf, turmeric and chili (if using).",
+      "Cover and simmer 20 minutes on medium heat, stirring occasionally, topping up water as needed.",
+      "Test a peanut for tenderness; adjust salt to taste.",
+      "Turn off heat, let soak 5 minutes.",
+      "Drain, discard the aromatics, shell the peanuts and serve warm (or refrigerate for batch prep)."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 165
+  },
+  {
+    "id": "jp-tamago-sando",
+    "name": "Tamago Sando (Japanese Egg Sandwich)",
+    "cuisine": "Japanese",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 340,
+    "protein": 14,
+    "fat": 19,
+    "carbs": 26,
+    "satfat": 4,
+    "cholesterol": 285,
+    "sodium": 583,
+    "timeNote": "~10 min active (boiling water, peeling, mashing, mixing, buttering, assembling, cutting); ~17 min passive (12 min egg boil + 5 min plate-press).",
+    "image": "https://www.justonecookbook.com/wp-content/uploads/2019/03/Tamago-Sando-I-2.jpg",
+    "source": "Just One Cookbook",
+    "sourceUrl": "https://www.justonecookbook.com/japanese-egg-sandwich-tamago-sando/",
+    "ingredients": [
+      {
+        "n": "Eggs, large",
+        "a": "3",
+        "k": 234
+      },
+      {
+        "n": "Sugar",
+        "a": "1/4 tsp",
+        "k": 4
+      },
+      {
+        "n": "Salt",
+        "a": "1/4 tsp",
+        "k": 0
+      },
+      {
+        "n": "Black pepper",
+        "a": "1/8 tsp",
+        "k": 0
+      },
+      {
+        "n": "Milk",
+        "a": "2 tsp",
+        "k": 2
+      },
+      {
+        "n": "Kewpie mayonnaise",
+        "a": "2 tbsp",
+        "k": 190
+      },
+      {
+        "n": "Shokupan (Japanese milk bread)",
+        "a": "4 slices",
+        "k": 220
+      },
+      {
+        "n": "Salted butter, for spreading",
+        "a": "as needed",
+        "k": 30
+      }
+    ],
+    "steps": [
+      "Boil eggs in water for 12 minutes, then transfer to an ice bath until cooled.",
+      "Peel and mash eggs with a fork into uniform pieces.",
+      "Mix mashed eggs with sugar, salt and pepper.",
+      "Add milk and Kewpie mayonnaise; blend thoroughly.",
+      "Spread salted butter on all 4 bread slices.",
+      "Distribute egg salad on two slices; top with the remaining buttered slices (buttered side down).",
+      "Compress sandwiches between plates for 5 minutes.",
+      "Remove crusts and cut sandwiches diagonally."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 157
+  },
+  {
+    "id": "jp-teriyaki-tofu",
+    "name": "Teriyaki Tofu",
+    "cuisine": "Japanese",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 294,
+    "protein": 21,
+    "fat": 14,
+    "carbs": 18,
+    "fiber": 3,
+    "sodium": 315,
+    "timeNote": "~12-14 min active (cutting, coating, pan-frying both sides, reducing the sauce) — a touch over 10 min. Draining the tofu (20-30 min, or ~2-3 min if microwaved) is passive/prep-ahead.",
+    "image": "https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2019/09/Teriyaki-Tofu-3611-I.jpg",
+    "source": "Just One Cookbook",
+    "sourceUrl": "https://www.justonecookbook.com/teriyaki-tofu/",
+    "note": "Bonito flakes (katsuobushi) omitted here to keep this vegetarian, per the source's own suggested substitution.",
+    "ingredients": [
+      {
+        "n": "Medium-firm tofu (momen dofu)",
+        "a": "400g",
+        "k": 304
+      },
+      {
+        "n": "Potato starch or cornstarch (for coating)",
+        "a": "45g",
+        "k": 50
+      },
+      {
+        "n": "Neutral oil (for pan-frying)",
+        "a": "2 tbsp",
+        "k": 64
+      },
+      {
+        "n": "Teriyaki sauce (2 tbsp each sake, mirin, soy sauce)",
+        "a": "6 tbsp total",
+        "k": 160
+      },
+      {
+        "n": "Green onion, sliced & pickled red ginger (garnish)",
+        "a": "to taste",
+        "k": 10
+      }
+    ],
+    "steps": [
+      "Drain tofu by wrapping in paper towel between two plates with a weight, 20-30 minutes (or microwave 2-3 minutes as a shortcut).",
+      "Combine sake, mirin and soy sauce in a measuring cup.",
+      "Cut drained tofu lengthwise in half, then crosswise into ½-inch slabs.",
+      "Slice green onion; heat oil in a nonstick pan over medium-high heat.",
+      "Coat tofu pieces with potato starch, shaking off excess.",
+      "Pan-fry until golden, 3-5 minutes per side.",
+      "Pour in the teriyaki sauce; shake/flip tofu to coat evenly until the sauce thickens.",
+      "Transfer to a plate; garnish with green onion and pickled ginger."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 274
+  },
+  {
+    "id": "med-yogurt-honey-walnuts",
+    "name": "Greek Yogurt with Honey and Walnuts",
+    "cuisine": "Mediterranean",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 284,
+    "protein": 11.8,
+    "fat": 16,
+    "carbs": 26.7,
+    "sugar": 24.5,
+    "timeNote": "~2-3 min active (portioning yogurt, mixing) + ~8 min passive walnut-toasting (can happen while you portion the yogurt).",
+    "image": "https://www.mygreekdish.com/wp-content/uploads/2014/09/Greek-Yogurt-drizzled-with-Honey-and-Walnuts-Yiaourti-me-meli-750x498.jpg",
+    "source": "My Greek Dish",
+    "sourceUrl": "https://www.mygreekdish.com/recipe/greek-yogurt-with-honey-walnuts-recipe-yiaourti-meli/",
+    "note": "Scaled to a 2-serving portion from the source's 7-serving batch.",
+    "ingredients": [
+      {
+        "n": "Strained Greek yogurt",
+        "a": "170g",
+        "k": 153
+      },
+      {
+        "n": "Vanilla extract",
+        "a": "1/4 tsp",
+        "k": 2
+      },
+      {
+        "n": "Walnuts",
+        "a": "40g",
+        "k": 262
+      },
+      {
+        "n": "Honey",
+        "a": "2.5 tbsp",
+        "k": 151
+      },
+      {
+        "n": "Cinnamon powder",
+        "a": "to taste",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Preheat oven to 180°C. Spread walnuts on a baking sheet and toast 7-8 minutes until golden and fragrant. Transfer to a bowl, add honey, toss to coat, let cool 1-2 minutes.",
+      "Mix Greek yogurt with vanilla extract; divide between 2 bowls.",
+      "Spoon the honey-walnut mixture over the yogurt and sprinkle with cinnamon.",
+      "Serve immediately, or refrigerate."
+    ],
+    "category": "snack",
+    "isVegetarian": true,
+    "cookedWeightG": 114
+  },
+  {
+    "id": "in-chicken-tikka-bites",
+    "name": "Air Fryer Chicken Tikka Bites",
+    "cuisine": "Indian",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 282,
+    "protein": 23,
+    "fat": 18,
+    "carbs": 6,
+    "satfat": 5,
+    "cholesterol": 86,
+    "sodium": 1263,
+    "fiber": 1,
+    "sugar": 2,
+    "timeNote": "~10 min active (cutting, mixing marinade, coating) is right at the bar; plus a 15 min passive marinate and 9-12 min mostly-passive air-fry (one flip).",
+    "image": "https://cdn.indiaphile.info/wp-content/uploads/2023/01/stp-chicken-tikka-bites-6028.jpg",
+    "source": "Indiaphile",
+    "sourceUrl": "https://indiaphile.info/air-fryer-chicken-tikka-bites/",
+    "ingredients": [
+      {
+        "n": "Chicken thighs, boneless & skinless, cubed",
+        "a": "454g (1 lb)",
+        "k": 480
+      },
+      {
+        "n": "Plain yogurt",
+        "a": "60g",
+        "k": 35
+      },
+      {
+        "n": "Besan (chickpea flour)",
+        "a": "1 tbsp",
+        "k": 25
+      },
+      {
+        "n": "Ginger, grated",
+        "a": "1 tsp",
+        "k": 2
+      },
+      {
+        "n": "Garlic, grated",
+        "a": "1 tsp",
+        "k": 4
+      },
+      {
+        "n": "Cayenne pepper",
+        "a": "1/4 tsp",
+        "k": 2
+      },
+      {
+        "n": "Beets, grated (for color)",
+        "a": "1 tbsp",
+        "k": 4
+      },
+      {
+        "n": "Garam masala",
+        "a": "2 tsp",
+        "k": 8
+      },
+      {
+        "n": "Salt",
+        "a": "1 tsp",
+        "k": 0
+      },
+      {
+        "n": "Spray oil",
+        "a": "as needed",
+        "k": 4
+      }
+    ],
+    "steps": [
+      "Cut chicken into 1.5-inch cubes.",
+      "Whisk yogurt and besan together, removing lumps.",
+      "Add ginger, garlic, beet, cayenne, garam masala and salt; mix well.",
+      "Add chicken and coat completely; refrigerate at least 15 minutes.",
+      "Preheat air fryer to 190°C (380°F).",
+      "Spray air fryer tray; add chicken with spacing between pieces.",
+      "Cook 9-12 minutes, turning once after 5 minutes."
+    ],
+    "category": "snack",
+    "isVegetarian": false,
+    "cookedWeightG": 217
+  },
+  {
+    "id": "wn-turkey-cheese-rollups",
+    "name": "Turkey and Cheese Roll Ups",
+    "cuisine": "Western",
+    "type": "regular",
+    "cookTime": 10,
+    "calories": 217,
+    "protein": 15,
+    "fat": 9,
+    "carbs": 18,
+    "fiber": 5,
+    "estimated": true,
+    "image": "https://nutritiontofit.com/wp-content/uploads/2025/08/Turkey-and-Cheese-Roll-Ups-3.jpg",
+    "source": "Nutrition to Fit",
+    "sourceUrl": "https://nutritiontofit.com/turkey-and-cheese-roll-ups/",
+    "note": "Scaled to a 2-serving (2-wrap) portion; source only publishes calories (per-serving macros beyond that are my estimate).",
+    "ingredients": [
+      {
+        "n": "High-fiber tortillas",
+        "a": "2",
+        "k": 180
+      },
+      {
+        "n": "Provolone cheese, thinly sliced",
+        "a": "2 oz (56g)",
+        "k": 160
+      },
+      {
+        "n": "Deli turkey",
+        "a": "4 oz (114g)",
+        "k": 80
+      },
+      {
+        "n": "Cucumber, thinly sliced",
+        "a": "60g",
+        "k": 12
+      },
+      {
+        "n": "Butter lettuce leaves",
+        "a": "6",
+        "k": 2
+      }
+    ],
+    "steps": [
+      "Place a tortilla on a flat surface; layer with cheese, turkey, cucumber slices and lettuce.",
+      "Starting from one edge, tightly roll the tortilla into a log shape.",
+      "Slice into 1-inch-thick pieces with a sharp knife.",
+      "Repeat with the second tortilla; serve."
+    ],
+    "category": "snack",
+    "isVegetarian": false,
+    "cookedWeightG": 161
   }
 ]
