@@ -5,7 +5,7 @@
     "cuisine": "Singapore/Malaysian",
     "type": "regular",
     "cookTime": 12,
-    "calories": 490,
+    "calories": 538,
     "protein": 34.4,
     "fat": 20,
     "carbs": 51.1,
@@ -86,11 +86,12 @@
       "Drain noodles, add to the soup, and serve."
     ],
     "category": "main",
-    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — light coconut milk recalculated to Kara Light UHT's actual figures (137 kcal/100ml, higher than the previous generic estimate).",
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — light coconut milk recalculated to Kara Light UHT's actual figures (137 kcal/100ml, higher than the previous generic estimate). Calories corrected 490->538 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure.",
     "estimated": true,
     "imageCredit": "Illustrative photo from Rasa Malaysia (rasamalaysia.com) — not a photo of this exact recipe (original image was no longer loading)",
     "cookedWeightG": 430,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": false
   },
   {
     "id": "jp-teriyaki-salmon-bowl",
@@ -174,7 +175,8 @@
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — teriyaki sauce swapped for Niulife Organic Teriyaki Coconut Amino (the product actually used); sake calories use a generic cooking-sake reference (Takara's own nutrition data isn't published) — marked estimated.",
     "estimated": true,
     "cookedWeightG": 462,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": true
   },
   {
     "id": "tm7-teriyaki-chicken",
@@ -182,7 +184,7 @@
     "cuisine": "Japanese",
     "type": "TM7",
     "cookTime": 21,
-    "calories": 408,
+    "calories": 464,
     "protein": 26,
     "fat": 25,
     "carbs": 15.9,
@@ -260,10 +262,11 @@
       "Garnish with shallot and sesame seeds."
     ],
     "category": "main",
-    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used). Sodium field (1237mg) not recalculated — original per-ingredient sodium breakdown isn't available, but coconut aminos run meaningfully lower in sodium than regular soy sauce.",
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used). Sodium field (1237mg) not recalculated — original per-ingredient sodium breakdown isn't available, but coconut aminos run meaningfully lower in sodium than regular soy sauce. Calories corrected 408->464 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure.",
     "estimated": true,
     "cookedWeightG": 192,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": true
   },
   {
     "id": "med-chicken",
@@ -271,7 +274,7 @@
     "cuisine": "Mediterranean",
     "type": "regular",
     "cookTime": 30,
-    "calories": 297,
+    "calories": 267,
     "protein": 28,
     "fat": 16,
     "carbs": 5,
@@ -354,7 +357,9 @@
     ],
     "category": "main",
     "cookedWeightG": 171,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": true,
+    "note": "Calories corrected 297->267 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure."
   },
   {
     "id": "tm7-beef-curry",
@@ -465,7 +470,8 @@
     ],
     "category": "main",
     "cookedWeightG": 350,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": false
   },
   {
     "id": "tm7-laksa-lightened",
@@ -566,7 +572,8 @@
     ],
     "category": "main",
     "cookedWeightG": 474,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": false
   },
   {
     "id": "sgmy-beef-ho-fun",
@@ -711,7 +718,8 @@
     "imageCredit": "Illustrative photo from Red House Spice (redhousespice.com) — not a photo of this exact recipe",
     "category": "main",
     "cookedWeightG": 424,
-    "isVegetarian": false
+    "isVegetarian": false,
+    "isKidFriendly": true
   },
   {
     "id": "tm7-hainanese-chicken-rice",
@@ -719,16 +727,16 @@
     "cuisine": "Singapore/Malaysian",
     "type": "TM7",
     "cookTime": 30,
-    "calories": 481,
-    "protein": 38,
+    "calories": 514,
+    "protein": 39.0,
     "fat": 11.8,
-    "carbs": 42.6,
+    "carbs": 48.1,
     "estimated": true,
     "image": "https://thewoksoflife.com/wp-content/uploads/2023/07/hainan-chicken-rice-7.jpg",
     "source": "User submitted (Thermomix)",
     "sourceUrl": "",
-    "timeNote": "Adapted from a whole-chicken TM7 recipe — switching to boneless skinless breast cuts the steam time from ~68 min down to ~30 min active (breast cooks through much faster than a whole bird), so this now fits the 30-min cap. Marinate time is also shorter (15-30 min is enough for breast, vs 3hr+ for a whole chicken).",
-    "note": "Reworked to use boneless, skinless chicken breast instead of a whole chicken. This alone drops calories from ~710 kcal/serving (original) to ~480 kcal/serving — well under the ceiling — since it removes all the skin fat and bone weight that made the original hard to calculate accurately. Ingredient amounts are rounded to easy-to-measure quantities. Calories/macros are still estimated, not source-published. Recalculated using Simar's actual pantry products (researched Aug 2026) — sesame oil recalculated to Double Pagoda's figures, light soy sauce swapped for Everiday Organic Coconut Aminos, Shaoxing Hua Tiao Chiew recalculated to Pagoda's actual figures.",
+    "timeNote": "Adapted from a whole-chicken recipe — boneless breast cuts steam time from ~68 min to ~30 min active, fitting the cap. Marinate is also shorter (15-30 min vs 3hr+ for a whole chicken).",
+    "note": "Reworked to use boneless, skinless chicken breast instead of a whole chicken — drops calories from ~710 to ~480 kcal/serving (removes skin fat/bone weight). Amounts rounded to easy-to-measure quantities; estimated, not source-published. Recalculated using Simar's actual pantry products (Aug 2026): sesame oil to Double Pagoda's figures, soy sauce to Everiday Organic Coconut Aminos, Shaoxing wine to Pagoda's figures. Chilli sauce (Simar's own Thermomix recipe) added 2026-08-20 as a side dip.",
     "ingredients": [
       {
         "n": "Chicken breast, boneless & skinless",
@@ -807,6 +815,60 @@
         "n": "Cucumber, sliced",
         "a": "30g",
         "k": 5
+      },
+      {
+        "n": "Bird's eye chillies",
+        "a": "5",
+        "k": 3,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Fresh red chillies",
+        "a": "5",
+        "k": 16,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Fresh ginger",
+        "a": "5g",
+        "k": 4,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "3",
+        "k": 13,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Sugar",
+        "a": "1 tsp",
+        "k": 16,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Lime juice",
+        "a": "3 tbsp",
+        "k": 11,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Salt",
+        "a": "¼ tsp",
+        "k": 0,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Vinegar",
+        "a": "1 tbsp",
+        "k": 3,
+        "section": "Chilli Sauce"
+      },
+      {
+        "n": "Reserved chicken stock (from the stock above)",
+        "a": "4 tbsp",
+        "k": 0,
+        "section": "Chilli Sauce"
       }
     ],
     "steps": [
@@ -815,12 +877,14 @@
       "Place chicken stock in the mixing bowl. Insert the simmering basket, add rice and the reserved aromatic oil. Place the marinated chicken breasts in the Varoma dish and position on the lid; steam 15 min/Varoma/speed 3.",
       "Check chicken is cooked through (internal temp 75°C+); if needed, steam a further 2-3 minutes. Let stand 5 minutes.",
       "Meanwhile mix a little reserved stock with the soy sauce, sugar and rice wine in a bowl.",
-      "Slice the chicken, drizzle with the sauce, and serve with the rice and sliced cucumber."
+      "For the chilli sauce: rinse the mixing bowl, then place the bird's eye chillies, red chillies, ginger, garlic, sugar, lime juice, salt, vinegar and the reserved chicken stock in the bowl; blend 10 sec/speed 10.",
+      "Slice the chicken, drizzle with the sauce, and serve with the rice, sliced cucumber, and the chilli sauce on the side."
     ],
     "imageCredit": "Illustrative photo from The Woks of Life (thewoksoflife.com) — not a photo of this exact recipe",
     "category": "main",
-    "cookedWeightG": 421,
-    "isVegetarian": false
+    "cookedWeightG": 441,
+    "isVegetarian": false,
+    "isKidFriendly": true
   },
   {
     "id": "cn-garlic-bok-choy",
@@ -867,11 +931,12 @@
       "Add bok choy and toss for 3-4 minutes until stems are just tender and leaves wilted.",
       "Season with salt to taste and serve immediately."
     ],
-    "cookedWeightG": 110
+    "cookedWeightG": 110,
+    "isKidFriendly": true
   },
   {
     "id": "cn-tm7-bok-choy-oyster",
-    "name": "TM7 Garlic Oyster Sauce Bok Choy",
+    "name": "Garlic Oyster Sauce Bok Choy",
     "cuisine": "Chinese",
     "category": "vegetable",
     "type": "TM7",
@@ -918,7 +983,8 @@
       "Add bok choy and oyster sauce; cook 4 min/100°C/speed 1/reverse (or use the Varoma basket if you prefer steaming).",
       "Serve immediately."
     ],
-    "cookedWeightG": 143
+    "cookedWeightG": 143,
+    "isKidFriendly": true
   },
   {
     "id": "sgmy-kangkong-garlic",
@@ -963,7 +1029,8 @@
       "Add kangkong and stir-fry 2-3 minutes until just wilted, stems still slightly crisp.",
       "Season with salt and pepper; serve immediately."
     ],
-    "cookedWeightG": 76
+    "cookedWeightG": 76,
+    "isKidFriendly": true
   },
   {
     "id": "jp-spinach-ohitashi",
@@ -1026,7 +1093,8 @@
     ],
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
     "estimated": true,
-    "cookedWeightG": 170
+    "cookedWeightG": 170,
+    "isKidFriendly": true
   },
   {
     "id": "med-garlic-sauteed-spinach",
@@ -1071,7 +1139,8 @@
       "Add spinach in batches, tossing until wilted, about 2-3 minutes total.",
       "Season with salt and pepper; serve warm."
     ],
-    "cookedWeightG": 105
+    "cookedWeightG": 105,
+    "isKidFriendly": true
   },
   {
     "id": "in-palak-sabzi-light",
@@ -1138,7 +1207,8 @@
       "Cover and cook 6-8 minutes, stirring occasionally, until spinach is wilted and just tender.",
       "Season with salt to taste and serve."
     ],
-    "cookedWeightG": 139
+    "cookedWeightG": 139,
+    "isKidFriendly": false
   },
   {
     "id": "wn-garlic-butter-spinach",
@@ -1187,7 +1257,8 @@
       "Add spinach in batches, tossing constantly until just wilted, about 2-3 minutes.",
       "Remove from heat, stir in a pinch of salt and the lemon juice, and serve immediately."
     ],
-    "cookedWeightG": 125
+    "cookedWeightG": 125,
+    "isKidFriendly": true
   },
   {
     "id": "sgmy-sayur-goreng",
@@ -1243,7 +1314,8 @@
       "Add cabbage and toss for another 2-3 minutes until just tender-crisp.",
       "Season with salt to taste and serve immediately."
     ],
-    "cookedWeightG": 127
+    "cookedWeightG": 127,
+    "isKidFriendly": false
   },
   {
     "id": "jp-broccolini-gomaae",
@@ -1289,7 +1361,8 @@
     ],
     "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
     "estimated": true,
-    "cookedWeightG": 123
+    "cookedWeightG": 123,
+    "isKidFriendly": true
   },
   {
     "id": "med-vegetable-medley",
@@ -1351,7 +1424,8 @@
       "Add cherry tomatoes, oregano and rosemary; cook for another 3-4 minutes until tomatoes just start to blister.",
       "Finish with lemon juice and olives if using; serve warm."
     ],
-    "cookedWeightG": 116
+    "cookedWeightG": 116,
+    "isKidFriendly": true
   },
   {
     "id": "cn-garlic-broccoli-stirfry",
@@ -1422,11 +1496,12 @@
       "Add blanched broccoli, water, oyster sauce, soy sauce, Shaoxing wine and sugar; toss for 1-2 minutes.",
       "Drizzle with sesame oil and serve immediately."
     ],
-    "cookedWeightG": 169
+    "cookedWeightG": 169,
+    "isKidFriendly": true
   },
   {
     "id": "cn-tm7-broccoli-reverse-steam",
-    "name": "TM7 Reverse-Steamed Garlic Broccoli",
+    "name": "Reverse-Steamed Garlic Broccoli",
     "cuisine": "Chinese",
     "category": "vegetable",
     "type": "TM7",
@@ -1468,7 +1543,8 @@
       "Cook 12 min/Varoma/speed 2.",
       "Season with salt and serve."
     ],
-    "cookedWeightG": 159
+    "cookedWeightG": 159,
+    "isKidFriendly": true
   },
   {
     "id": "in-broccoli-sabzi-light",
@@ -1540,7 +1616,8 @@
       "Cover and cook for 5-6 minutes, stirring occasionally, until broccoli is tender.",
       "Stir in shredded coconut and serve."
     ],
-    "cookedWeightG": 156
+    "cookedWeightG": 156,
+    "isKidFriendly": false
   },
   {
     "id": "wn-steamed-broccoli-parm",
@@ -1591,7 +1668,8 @@
       "Toss steamed broccoli with the garlic oil, lemon zest and juice.",
       "Top with grated parmesan and serve."
     ],
-    "cookedWeightG": 132
+    "cookedWeightG": 132,
+    "isKidFriendly": true
   },
   {
     "id": "sm-pb-banana-cacao",
@@ -1877,7 +1955,7 @@
     "type": "regular",
     "cookTime": 10,
     "servings": 24,
-    "calories": 20,
+    "calories": 16,
     "protein": 1,
     "fat": 0,
     "carbs": 3.6,
@@ -1933,7 +2011,7 @@
       "Refrigerate for at least 1 hour, ideally 2-3 days, for the flavours to develop.",
       "Strain before using. Keeps up to 1 month refrigerated."
     ],
-    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used).",
+    "note": "Recalculated using Simar's actual pantry products (researched Aug 2026) — soy sauce swapped for Everiday Organic Coconut Aminos (the product actually used). Calories corrected 20->16 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure.",
     "estimated": true
   },
   {
@@ -2079,7 +2157,7 @@
     "type": "regular",
     "cookTime": 15,
     "servings": 14,
-    "calories": 35,
+    "calories": 19,
     "protein": 1,
     "fat": 3,
     "carbs": 2,
@@ -2142,7 +2220,8 @@
       "Add all ingredients to a blender.",
       "Blend until smooth, adding 1-2 tbsp more water if needed to loosen.",
       "Taste and adjust salt/sugar as needed."
-    ]
+    ],
+    "note": "Calories corrected 35->19 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure."
   },
   {
     "id": "cond-healthy-bbq-sauce",
@@ -2442,7 +2521,7 @@
     "type": "regular",
     "cookTime": 12,
     "servings": 2,
-    "calories": 58,
+    "calories": 50,
     "protein": 2,
     "fat": 3,
     "carbs": 4,
@@ -2516,7 +2595,8 @@
       "Add yoghurt and all seasonings.",
       "Shake vigorously for about 5 minutes until fully combined.",
       "Drizzle over leafy greens and toppings."
-    ]
+    ],
+    "note": "Calories corrected 58->50 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure."
   },
   {
     "id": "salad-balsamic-vinaigrette",
@@ -2527,11 +2607,11 @@
     "type": "regular",
     "cookTime": 5,
     "servings": 3,
-    "calories": 34,
+    "calories": 23,
     "protein": 0,
     "fat": 0,
     "carbs": 6,
-    "note": "Source publishes calories per tablespoon (17 kcal); figure here is for a standard 2-tablespoon dressing serving.",
+    "note": "Source publishes calories per tablespoon (17 kcal); figure here is for a standard 2-tablespoon dressing serving. Calories corrected 34->23 kcal on 2026-08-20 (project audit) to match the sum of this recipe's own ingredient-level calorie values, which didn't reconcile with the previously stated total. Protein/fat/carbs figures were not recalculated (no per-ingredient macro breakdown exists for this recipe) and may not sum precisely against the corrected calorie figure.",
     "image": "https://www.pcrm.org/sites/default/files/vinegar-balsamic.png",
     "source": "Physicians Committee for Responsible Medicine",
     "sourceUrl": "https://www.pcrm.org/good-nutrition/plant-based-diets/recipes/balsamic-vinaigrette",
@@ -2664,7 +2744,8 @@
       "Slice the chicken, drizzle with the sauce, and serve with the rice and sliced cucumber."
     ],
     "imageCredit": "Illustrative photo from The Woks of Life (thewoksoflife.com) — not a photo of this exact recipe",
-    "category": "child"
+    "category": "child",
+    "isKidFriendly": true
   },
   {
     "id": "child-teriyaki-chicken",
@@ -2747,7 +2828,8 @@
       "Add the cornflour paste. Cook 4 min/100°C/Reverse+Soft Spoon (MC out).",
       "Garnish with shallot and sesame seeds."
     ],
-    "category": "child"
+    "category": "child",
+    "isKidFriendly": true
   },
   {
     "id": "child-teriyaki-salmon-bowl",
@@ -2827,7 +2909,8 @@
       "Return salmon to the pan and coat in the teriyaki sauce.",
       "Divide rice between bowls; top with salmon, vegetables, edamame and garnish."
     ],
-    "category": "child"
+    "category": "child",
+    "isKidFriendly": true
   },
   {
     "id": "child-beef-ho-fun",
@@ -2957,7 +3040,8 @@
       "Serve immediately, hot."
     ],
     "imageCredit": "Illustrative photo from Red House Spice (redhousespice.com) — not a photo of this exact recipe",
-    "category": "child"
+    "category": "child",
+    "isKidFriendly": true
   },
   {
     "id": "child-beef-curry",
@@ -3060,7 +3144,8 @@
       "Add stock, tomato paste, yoghurt and beef. Cook 25 min/Varoma/Speed 1 (Reverse Blade).",
       "Add garam masala and kasoori methi. Cook 1 min/Varoma/Speed 1 (Reverse Blade). Serve."
     ],
-    "category": "child"
+    "category": "child",
+    "isKidFriendly": true
   },
   {
     "id": "sgmy-kerabu-taugeh",
@@ -3125,7 +3210,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 274
+    "cookedWeightG": 274,
+    "isKidFriendly": false
   },
   {
     "id": "jp-edamame",
@@ -3167,7 +3253,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 94
+    "cookedWeightG": 94,
+    "isKidFriendly": true
   },
   {
     "id": "jp-shio-onigiri",
@@ -3217,7 +3304,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 111
+    "cookedWeightG": 111,
+    "isKidFriendly": true
   },
   {
     "id": "med-cucumber-bites",
@@ -3279,7 +3367,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 108
+    "cookedWeightG": 108,
+    "isKidFriendly": true
   },
   {
     "id": "cn-cold-tossed-tofu",
@@ -3350,7 +3439,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 128
+    "cookedWeightG": 128,
+    "isKidFriendly": true
   },
   {
     "id": "cn-five-spice-edamame",
@@ -3419,7 +3509,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 109
+    "cookedWeightG": 109,
+    "isKidFriendly": false
   },
   {
     "id": "in-corn-chaat",
@@ -3506,7 +3597,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 218
+    "cookedWeightG": 218,
+    "isKidFriendly": true
   },
   {
     "id": "in-kala-chana-chaat",
@@ -3595,7 +3687,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 106
+    "cookedWeightG": 106,
+    "isKidFriendly": false
   },
   {
     "id": "wn-energy-balls",
@@ -3664,7 +3757,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 36
+    "cookedWeightG": 36,
+    "isKidFriendly": true
   },
   {
     "id": "wn-smoked-salmon-bites",
@@ -3677,7 +3771,7 @@
     "fat": 10,
     "carbs": 2,
     "estimated": true,
-    "image": "https://www.deliciousmeetshealthy.com/wp-content/uploads/2020/02/Smoked-Salmon-Cucumber-Bites-4.jpg",
+    "image": "https://juliascuisine.com/wp-content/uploads/2023/08/cucumber-smoked-salmon-bites-image.jpg",
     "source": "Delicious Meets Healthy",
     "sourceUrl": "https://www.deliciousmeetshealthy.com/smoked-salmon-cucumber-bites/",
     "note": "The only non-vegetarian Snack (pescatarian — contains smoked salmon). Source publishes 22 kcal/bite; a 6-bite portion (~132 kcal) is defined as 1 serving here to land in the 100-200 kcal snack target. Protein/fat/carbs are my estimate — source only publishes calories per bite.",
@@ -3726,7 +3820,9 @@
     ],
     "category": "snack",
     "isVegetarian": false,
-    "cookedWeightG": 112
+    "cookedWeightG": 112,
+    "imageCredit": "Illustrative photo from Julia's Cuisine (juliascuisine.com) — not a photo of this exact recipe. Swapped 2026-08-20: the original hotlink (deliciousmeetshealthy.com) is blocked by Cloudflare bot protection for direct image requests (confirmed via new Image() load test), same failure mode as the earlier Prawn Laksa fix.",
+    "isKidFriendly": true
   },
   {
     "id": "sgmy-otak-otak",
@@ -3784,7 +3880,8 @@
     ],
     "category": "snack",
     "isVegetarian": false,
-    "cookedWeightG": 97
+    "cookedWeightG": 97,
+    "isKidFriendly": false
   },
   {
     "id": "sgmy-kacang-rebus",
@@ -3855,7 +3952,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 165
+    "cookedWeightG": 165,
+    "isKidFriendly": true
   },
   {
     "id": "jp-tamago-sando",
@@ -3928,7 +4026,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 157
+    "cookedWeightG": 157,
+    "isKidFriendly": true
   },
   {
     "id": "jp-teriyaki-tofu",
@@ -3986,7 +4085,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 274
+    "cookedWeightG": 274,
+    "isKidFriendly": true
   },
   {
     "id": "med-yogurt-honey-walnuts",
@@ -4039,7 +4139,8 @@
     ],
     "category": "snack",
     "isVegetarian": true,
-    "cookedWeightG": 114
+    "cookedWeightG": 114,
+    "isKidFriendly": true
   },
   {
     "id": "in-chicken-tikka-bites",
@@ -4123,7 +4224,8 @@
     ],
     "category": "snack",
     "isVegetarian": false,
-    "cookedWeightG": 217
+    "cookedWeightG": 217,
+    "isKidFriendly": false
   },
   {
     "id": "wn-turkey-cheese-rollups",
@@ -4176,6 +4278,316 @@
     ],
     "category": "snack",
     "isVegetarian": false,
-    "cookedWeightG": 161
+    "cookedWeightG": 161,
+    "isKidFriendly": true
+  },
+  {
+    "id": "cn-garlic-oyster-bok-choy",
+    "name": "Garlic Oyster Sauce Bok Choy (Stovetop)",
+    "cuisine": "Chinese",
+    "type": "regular",
+    "cookTime": 12,
+    "calories": 67,
+    "protein": 2.3,
+    "fat": 4.2,
+    "carbs": 4.8,
+    "estimated": true,
+    "image": "https://cjeatsrecipes.com/wp-content/uploads/2022/11/Bok-Choy-with-Oyster-Sauce-in-a-bowl-with-chopsticks.jpg",
+    "source": "CJ Eats Recipes",
+    "sourceUrl": "https://cjeatsrecipes.com/bok-choy-with-oyster-sauce/",
+    "note": "Stovetop counterpart to the TM7 Garlic Oyster Sauce Bok Choy recipe (per Simar's request for a non-Thermomix version). Adapted from CJ Eats Recipes, scaled down to 2 servings (~300g bok choy, matching this project's convention) from the published 1.5lb/4-6 serving batch; oil reduced slightly to fit the 50-75 kcal vegetable ceiling. Calories/macros computed from ingredients, not the source's own published figure (which was for a larger portion).",
+    "ingredients": [
+      {
+        "n": "Baby bok choy",
+        "a": "300g",
+        "k": 45
+      },
+      {
+        "n": "Cooking oil",
+        "a": "1 tsp",
+        "k": 29
+      },
+      {
+        "n": "Garlic cloves, grated",
+        "a": "2",
+        "k": 9
+      },
+      {
+        "n": "Chicken broth",
+        "a": "80ml",
+        "k": 12
+      },
+      {
+        "n": "Oyster sauce",
+        "a": "1 tbsp",
+        "k": 8
+      },
+      {
+        "n": "Light soy sauce",
+        "a": "1 tsp",
+        "k": 2
+      },
+      {
+        "n": "Shaoxing wine",
+        "a": "1 tsp",
+        "k": 2
+      },
+      {
+        "n": "Sesame oil",
+        "a": "¼ tsp",
+        "k": 10
+      },
+      {
+        "n": "Sugar",
+        "a": "¼ tsp",
+        "k": 4
+      },
+      {
+        "n": "Cornstarch",
+        "a": "1 tsp",
+        "k": 13
+      },
+      {
+        "n": "Salt",
+        "a": "pinch",
+        "k": 0
+      }
+    ],
+    "steps": [
+      "Bring a pot of salted, lightly oiled water to the boil.",
+      "Slice bok choy in half lengthwise; blanch 45 seconds until bright green, then drain well.",
+      "In a small saucepan, combine chicken broth, oyster sauce, soy sauce, Shaoxing wine, sesame oil, sugar, grated garlic, and cornstarch.",
+      "Simmer the sauce over medium heat, stirring, until thickened (1-2 minutes).",
+      "Pour the sauce over the blanched bok choy and serve immediately."
+    ],
+    "imageCredit": "",
+    "category": "vegetable",
+    "cookedWeightG": 185,
+    "isKidFriendly": true
+  },
+  {
+    "id": "cn-steamed-garlic-broccoli",
+    "name": "Steamed Garlic Broccoli",
+    "cuisine": "Chinese",
+    "type": "regular",
+    "cookTime": 15,
+    "calories": 75,
+    "protein": 3.5,
+    "fat": 2.3,
+    "carbs": 6.8,
+    "estimated": true,
+    "image": "https://healthyrecipesblogs.com/wp-content/uploads/2024/01/steamed-broccoli-featured-2023.jpg",
+    "source": "Healthy Recipes Blog",
+    "sourceUrl": "https://healthyrecipesblogs.com/steamed-broccoli/",
+    "note": "Stovetop counterpart to the TM7 Reverse-Steamed Garlic Broccoli recipe (per Simar's request for a non-Thermomix version). Adapted from Healthy Recipes Blog, scaled down to 2 servings (~300g broccoli, matching this project's convention). Oil reduced from the published amount to stay under the 50-75 kcal vegetable ceiling once scaled up to this project's larger per-serving broccoli portion — disclosed here rather than silently applied. Uses garlic powder as published (not fresh garlic).",
+    "ingredients": [
+      {
+        "n": "Broccoli florets",
+        "a": "300g",
+        "k": 102
+      },
+      {
+        "n": "Olive oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Lemon juice",
+        "a": "2 tsp",
+        "k": 2
+      },
+      {
+        "n": "Garlic powder",
+        "a": "½ tsp",
+        "k": 5
+      },
+      {
+        "n": "Salt",
+        "a": "¼ tsp",
+        "k": 0
+      },
+      {
+        "n": "Black pepper",
+        "a": "¼ tsp",
+        "k": 1
+      }
+    ],
+    "steps": [
+      "Bring 1 inch of water to a boil in a saucepan fitted with a steamer basket.",
+      "Cut broccoli into florets; place in the steamer basket, cover, and steam 5 minutes until tender-crisp.",
+      "Meanwhile, whisk together lemon juice, olive oil, garlic powder, salt, and pepper.",
+      "Toss the steamed broccoli with the dressing and serve."
+    ],
+    "imageCredit": "",
+    "category": "vegetable",
+    "cookedWeightG": 146,
+    "isKidFriendly": true
+  },
+  {
+    "id": "sgmy-nasi-lemak-light",
+    "name": "Nasi Lemak (Healthy)",
+    "cuisine": "Singapore/Malaysian",
+    "type": "regular",
+    "cookTime": 30,
+    "calories": 611,
+    "protein": 37.9,
+    "fat": 21.8,
+    "carbs": 52.0,
+    "estimated": true,
+    "image": "https://kellysiewcooks.com/wp-content/uploads/2012/11/2012-11-07-23-49-50.jpg",
+    "source": "The Singapore Women's Weekly (rice/sambal/sides) + Kelly Siew Cooks (baked chicken) — see note",
+    "sourceUrl": "https://www.womensweekly.com.sg/recipe/food/healthy-recipes/healthy-nasi-lemak/",
+    "timeNote": "30 minutes active as published, PLUS a required advance step: the chicken needs at least 2-3 hours to marinate (ideally overnight) before cooking — a passive fridge step, start it well ahead. Once marinated, the sambal, rice, and chicken bake (20-25 min at 180°C) all run in parallel within the same 30-minute active-cooking window, so this still fits the cap.",
+    "note": "Baked chicken (boneless, skinless thigh) added 2026-08-20 — adapted from Kelly Siew Cooks' \"Healthy Nasi Lemak\" post, source of this recipe's photo, using the same calorie-control technique as Hainanese Chicken Rice (skinless cut, scaled-down marinade). Coconut oil, peanuts, and sambal oil trimmed slightly to fit the 625 kcal ceiling — landed at 611 kcal/person. Rice/peanut/anchovy quantities are right-sized from the source's single-serving recipe to this project's 2-serving convention. Calories/macros computed from ingredients, not stated source figures; estimated, not source-published.",
+    "ingredients": [
+      {
+        "n": "Brown rice, rinsed",
+        "a": "100g",
+        "k": 370
+      },
+      {
+        "n": "Fresh ginger, sliced",
+        "a": "4g",
+        "k": 3
+      },
+      {
+        "n": "Pandan leaf",
+        "a": "1",
+        "k": 0
+      },
+      {
+        "n": "Virgin coconut oil",
+        "a": "1 tsp",
+        "k": 40
+      },
+      {
+        "n": "Raw peanuts",
+        "a": "20g",
+        "k": 113
+      },
+      {
+        "n": "Dried anchovies (ikan bilis)",
+        "a": "20g",
+        "k": 60
+      },
+      {
+        "n": "Cucumber, sliced",
+        "a": "60g",
+        "k": 9
+      },
+      {
+        "n": "Eggs",
+        "a": "2",
+        "k": 156
+      },
+      {
+        "n": "Dried red chillies, soaked",
+        "a": "20g",
+        "k": 56,
+        "section": "Sambal"
+      },
+      {
+        "n": "Red onion",
+        "a": "½",
+        "k": 22,
+        "section": "Sambal"
+      },
+      {
+        "n": "Fresh red chilli",
+        "a": "1",
+        "k": 3,
+        "section": "Sambal"
+      },
+      {
+        "n": "Garlic cloves",
+        "a": "5",
+        "k": 22,
+        "section": "Sambal"
+      },
+      {
+        "n": "Tamarind paste",
+        "a": "20g",
+        "k": 48,
+        "section": "Sambal"
+      },
+      {
+        "n": "Sugar",
+        "a": "1 tsp",
+        "k": 16,
+        "section": "Sambal"
+      },
+      {
+        "n": "Cooking oil",
+        "a": "2 tsp",
+        "k": 83,
+        "section": "Sambal"
+      },
+      {
+        "n": "Chicken thigh, boneless & skinless",
+        "a": "180g (2 pieces)",
+        "k": 216,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Cumin",
+        "a": "⅛ tsp",
+        "k": 1,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Ground coriander",
+        "a": "⅛ tsp",
+        "k": 1,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Turmeric",
+        "a": "⅛ tsp",
+        "k": 0,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Garam masala",
+        "a": "⅛ tsp",
+        "k": 1,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Chilli powder",
+        "a": "½ tsp",
+        "k": 3,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Plain yoghurt",
+        "a": "1 tsp",
+        "k": 3,
+        "section": "Baked Chicken"
+      },
+      {
+        "n": "Salt & pepper",
+        "a": "pinch each",
+        "k": 0,
+        "section": "Baked Chicken"
+      }
+    ],
+    "steps": [
+      "Marinate the chicken with the cumin, coriander, turmeric, garam masala, chilli powder, yoghurt, salt and pepper. Marinate at least 2-3 hours ahead, ideally overnight in the fridge — this is a passive advance step, not part of the active cook time below.",
+      "For the sambal: blend the soaked dried chillies, fresh chilli, red onion, and garlic into a paste.",
+      "Heat the cooking oil in a pan; fry the chilli paste until the oil separates.",
+      "Add the tamarind paste and sugar; cook 15 minutes, stirring occasionally, until dark red and thickened. Season to taste.",
+      "Meanwhile, preheat the oven to 180°C and bake the marinated chicken 20-25 minutes until cooked through (internal temp 75°C+); discard any rendered fat from the tray.",
+      "Also meanwhile, cook the brown rice with the sliced ginger and pandan leaf (rice to water ratio 1:2).",
+      "Toss the cooked rice with the virgin coconut oil.",
+      "Microwave or dry-fry the anchovies until crisp.",
+      "Dry-fry the peanuts until lightly browned.",
+      "Hard-boil or fry the eggs.",
+      "Slice the baked chicken. Plate the rice with the chicken, egg, anchovies, peanuts, sambal, and sliced cucumber."
+    ],
+    "imageCredit": "Photo from Kelly Siew Cooks (kellysiewcooks.com) — also the source of this recipe's baked chicken. Rice/sambal/sides follow The Singapore Women's Weekly instead; plating may vary.",
+    "category": "main",
+    "cookedWeightG": 365,
+    "isVegetarian": false,
+    "isKidFriendly": false
   }
 ]
